@@ -8,6 +8,11 @@ Integrates Algerian provinces (wilayas) and cities with WooCommerce checkout fie
 
 يجب أن تكون اضافة ووكومرس مثبتة
 
+## In current version
+- All provinces and cities are available in three languages support english, french, arabic.
+- We keep only the needed fields (first name, last name, provinces, city, phone).
+- this plugin does not change the theme used, it chang only the checkout fields.
+
 We hope you will support us by donating to us via my BaridiMob: 00799999001143517007
 
 نأمل أن تدعمونا بالتبرع لنا على بريدي موب لنستمر بتطوير الاضافات المجانية: 00799999001143517007
