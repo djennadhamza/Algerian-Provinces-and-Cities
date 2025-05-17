@@ -96,12 +96,12 @@ jQuery(function($) {
                 // Add initial option
                 selectField.append($('<option>', {
                     value: '',
-                    text: esc_html_e('Select a state first')
+                    text: 'Select a state first'
                 }));
 
                 selectField1.append($('<option>', {
                     value: '',
-                    text: esc_html_e('Select a state first')
+                    text: 'Select a state first'
                 }));
                 
                 //
@@ -166,7 +166,7 @@ jQuery(function($) {
                 $(citySelector).empty();
                 $(citySelector).append($('<option>', {
                     value: '',
-                    text: selectedState ? esc_html_e('Loading cities...') : esc_html_e('Select a state first')
+                    text: selectedState ? 'Loading cities...' : 'Select a state first'
                 }));
                 $(citySelector).prop('disabled', true);
                 
@@ -188,7 +188,7 @@ jQuery(function($) {
                                 $(citySelector).empty();
                                 $(citySelector).append($('<option>', {
                                     value: '',
-                                    text: esc_html_e('Select a city...')
+                                    text: 'Select a city...'
                                 }));
                                 
                                 $.each(response.data, function(index, city) {
@@ -203,7 +203,7 @@ jQuery(function($) {
                                // console.error('Invalid response:', response);
                                 $(citySelector).empty().append($('<option>', {
                                     value: '',
-                                    text: esc_html_e('Error loading cities')
+                                    text: 'Error loading cities'
                                 }));
                             }
                         },
@@ -212,7 +212,7 @@ jQuery(function($) {
                             //console.log('XHR:', xhr.responseText);
                             $(citySelector).empty().append($('<option>', {
                                 value: '',
-                                text: esc_html_e('Error loading cities')
+                                text: 'Error loading cities'
                             }));
                         }
                     });
@@ -229,7 +229,7 @@ jQuery(function($) {
                 $(citySelector1).empty();
                 $(citySelector1).append($('<option>', {
                     value: '',
-                    text: selectedState1 ? esc_html_e('Loading cities...') : esc_html_e('Select a state first')
+                    text: selectedState1 ? 'Loading cities...' : 'Select a state first'
                 }));
                 $(citySelector1).prop('disabled', true);
                 
@@ -251,7 +251,7 @@ jQuery(function($) {
                                 $(citySelector1).empty();
                                 $(citySelector1).append($('<option>', {
                                     value: '',
-                                    text: esc_html_e('Select a city...')
+                                    text: 'Select a city...'
                                 }));
                                 
                                 $.each(response.data, function(index, city) {
@@ -266,7 +266,7 @@ jQuery(function($) {
                                // console.error('Invalid response:', response);
                                 $(citySelector).empty().append($('<option>', {
                                     value: '',
-                                    text: esc_html_e('Error loading cities')
+                                    text: 'Error loading cities'
                                 }));
                             }
                         },
@@ -275,7 +275,7 @@ jQuery(function($) {
                             //console.log('XHR:', xhr.responseText);
                             $(citySelector1).empty().append($('<option>', {
                                 value: '',
-                                text: esc_html_e('Error loading cities')
+                                text: 'Error loading cities'
                             }));
                         }
                     });
