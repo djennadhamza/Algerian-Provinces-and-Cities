@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Algeria States for WooCommerce\n"
+"POT-Creation-Date: 2024-01-20 12:00+0100\n"
+"PO-Revision-Date: 2025-05-17 10:49+0100\n"
+"Last-Translator: Your Name <your@email.com>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# Admin Settings
+msgid "Algeria States Settings"
+msgstr "Configuration du Wilaya's"
+
+msgid "Show Postal Code"
+msgstr "Afficher Code Postal"
+
+msgid "Default Language"
+msgstr "Langue Par Défaut"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "No"
+
+msgid "Algeria States for WooCommerce requires WooCommerce to be installed and active."
+msgstr "Algeria States for WooCommerce nécessitent que WooCommerce soit installé et actif."
+
+msgid "Algeria States"
+msgstr "Wilaya's d'algerie"
+
+msgid "General Settings"
+msgstr "Configuration général"
+
+msgid "Support us"
+msgstr "Soutenez-nous"
+
+msgid "We hope you will support us by donating to us via my BaridiMob: 00799999001143517007"
+msgstr "Nous espérons que vous nous soutiendrez en faisant un don via mon: 00799999001143517007"
+
+msgid "Select a state first"
+msgstr "Sélectionnez d'abord un Wilaya"
+
+msgid "Loading cities..."
+msgstr "Chargement des villes..."
+
+msgid "Select a city..."
+msgstr "Sélectionnez une ville..."
+
+msgid "Error loading cities"
+msgstr "Erreur lors du chargement des villes"

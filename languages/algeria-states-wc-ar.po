@@ -1,0 +1,4592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Algeria States for WooCommerce\n"
+"POT-Creation-Date: 2024-01-20 12:00+0100\n"
+"PO-Revision-Date: 2025-05-17 10:24+0100\n"
+"Last-Translator: Your Name <your@email.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# States
+msgid "Adrar"
+msgstr "أدرار"
+
+msgid "Chlef"
+msgstr "الشلف"
+
+msgid "Laghouat"
+msgstr "الأغواط"
+
+msgid "Oum El Bouaghi"
+msgstr "أم البواقي"
+
+msgid "Batna"
+msgstr "باتنة"
+
+msgid "Béjaïa"
+msgstr "بجاية"
+
+msgid "Biskra"
+msgstr "بسكرة"
+
+msgid "Béchar"
+msgstr "بشار"
+
+msgid "Blida"
+msgstr "البليدة"
+
+msgid "Bouira"
+msgstr "البويرة"
+
+msgid "Tamanrasset"
+msgstr "تمنراست"
+
+msgid "Tébessa"
+msgstr "تبسة"
+
+msgid "Tlemcen"
+msgstr "تلمسان"
+
+msgid "Tiaret"
+msgstr "تيارت"
+
+msgid "Tizi Ouzou"
+msgstr "تيزي وزو"
+
+msgid "Algiers"
+msgstr "الجزائر"
+
+msgid "Djelfa"
+msgstr "الجلفة"
+
+msgid "Jijel"
+msgstr "جيجل"
+
+msgid "Sétif"
+msgstr "سطيف"
+
+msgid "Saïda"
+msgstr "سعيدة"
+
+msgid "Skikda"
+msgstr "سكيكدة"
+
+msgid "Sidi Bel Abbès"
+msgstr "سيدي بلعباس"
+
+msgid "Annaba"
+msgstr "عنابة"
+
+msgid "Guelma"
+msgstr "قالمة"
+
+msgid "Constantine"
+msgstr "قسنطينة"
+
+msgid "Médéa"
+msgstr "المدية"
+
+msgid "Mostaganem"
+msgstr "مستغانم"
+
+msgid "MSila"
+msgstr "المسيلة"
+
+msgid "Mascara"
+msgstr "معسكر"
+
+msgid "Ouargla"
+msgstr "ورقلة"
+
+msgid "Oran"
+msgstr "وهران"
+
+msgid "El Bayadh"
+msgstr "البيض"
+
+msgid "Illizi"
+msgstr "إليزي"
+
+msgid "Bordj Bou Arréridj"
+msgstr "برج بوعريريج"
+
+msgid "Boumerdès"
+msgstr "بومرداس"
+
+msgid "El Tarf"
+msgstr "الطارف"
+
+msgid "Tindouf"
+msgstr "تندوف"
+
+msgid "Tissemsilt"
+msgstr "تسمسيلت"
+
+msgid "El Oued"
+msgstr "الوادي"
+
+msgid "Khenchela"
+msgstr "خنشلة"
+
+msgid "Souk Ahras"
+msgstr "سوق أهراس"
+
+msgid "Tipaza"
+msgstr "تيبازة"
+
+msgid "Mila"
+msgstr "ميلة"
+
+msgid "Aïn Defla"
+msgstr "عين الدفلى"
+
+msgid "Naâma"
+msgstr "النعامة"
+
+msgid "Aïn Témouchent"
+msgstr "عين تموشنت"
+
+msgid "Ghardaïa"
+msgstr "غرداية"
+
+msgid "Relizane"
+msgstr "غليزان"
+
+msgid "Timimoun"
+msgstr "تيميمون"
+
+msgid "Bordj Badji Mokhtar"
+msgstr "برج باجي مختار"
+
+msgid "Ouled Djellal"
+msgstr "أولاد جلال"
+
+msgid "Béni Abbès"
+msgstr "بني عباس"
+
+msgid "In Salah"
+msgstr "عين صالح"
+
+msgid "In Guezzam"
+msgstr "عين قزام"
+
+msgid "Touggourt"
+msgstr "تقرت"
+
+msgid "Djanet"
+msgstr "جانت"
+
+msgid "El Meghaier"
+msgstr "المغير"
+
+msgid "El Menia"
+msgstr "المنيعة"
+
+# Cities for Adrar province
+msgid "Akabli"
+msgstr "أقابلي"
+
+msgid "Aoulef"
+msgstr "أولف"
+
+msgid "Bouda"
+msgstr "بودة"
+
+msgid "Fenoughil"
+msgstr "فنوغيل"
+
+msgid "In Zghmir"
+msgstr "إن زقمير"
+
+msgid "Ouled Ahmed Timmi"
+msgstr "أولاد أحمد تيمي"
+
+msgid "Reggane"
+msgstr "رقان"
+
+msgid "Sali"
+msgstr "سالي"
+
+msgid "Sebaa"
+msgstr "السبع"
+
+msgid "Tamantit"
+msgstr "تمنطيط"
+
+msgid "Tamest"
+msgstr "تمست"
+
+msgid "Timekten"
+msgstr "تيمكتن"
+
+msgid "Tit"
+msgstr "تيت"
+
+msgid "Tsabit"
+msgstr "تسابيت"
+
+msgid "Zaouiet Kounta"
+msgstr "زاوية كنتة"
+
+# Cities of Chlef province
+msgid "Abou El Hassane"
+msgstr "أبو الحسن"
+
+msgid "Ain Merane"
+msgstr "عين مران"
+
+msgid "Benairia"
+msgstr "بن عيرية"
+
+msgid "Beni  Bouattab"
+msgstr "بني بو عطاب"
+
+msgid "Beni Haoua"
+msgstr "بني حواء"
+
+msgid "Beni Rached"
+msgstr "بني راشد"
+
+msgid "Boukadir"
+msgstr "بوقادير"
+
+msgid "Bouzeghaia"
+msgstr "بوزغاية"
+
+msgid "Breira"
+msgstr "البريعة"
+
+msgid "Chettia"
+msgstr "الشطية"
+
+msgid "Dahra"
+msgstr "الظهرة"
+
+msgid "El Hadjadj"
+msgstr "الحجاج"
+
+msgid "El Karimia"
+msgstr "الكرمية"
+
+msgid "Harchoun"
+msgstr "حرشون"
+
+msgid "Herenfa"
+msgstr "الهرنفة"
+
+msgid "Labiod Medjadja"
+msgstr "الأبيض مجاجة"
+
+msgid "Moussadek"
+msgstr "مسادك"
+
+msgid "Oued Fodda"
+msgstr "وادي الفضة"
+
+msgid "Oued Goussine"
+msgstr "وادي قوسين"
+
+msgid "Oued Sly"
+msgstr "وادي سلي"
+
+msgid "Ouled Abbes"
+msgstr "أولاد عباس"
+
+msgid "Ouled Ben Abdelkader"
+msgstr "أولاد بن عبد القادر"
+
+msgid "Ouled Fares"
+msgstr "أولاد فارس"
+
+msgid "Oum Drou"
+msgstr "أم الدروع"
+
+msgid "Sendjas"
+msgstr "السنجاس"
+
+msgid "Sidi Akkacha"
+msgstr "سيدي عكاشة"
+
+msgid "Sobha"
+msgstr "الصبحة"
+
+msgid "Tadjena"
+msgstr "تاجنة"
+
+msgid "Talassa"
+msgstr "تلعصة"
+
+msgid "Taougrit"
+msgstr "تاوقريت"
+
+msgid "Tenes"
+msgstr "تنس"
+
+msgid "Zeboudja"
+msgstr "الزبوجة"
+
+# Cities of Laghouat province
+msgid "Aflou"
+msgstr "أفلو"
+
+msgid "Ain Madhi"
+msgstr "عين ماضي"
+
+msgid "Ain Sidi Ali"
+msgstr "عين سيدي علي"
+
+msgid "Benacer Benchohra"
+msgstr "بن ناصر بن شهرة"
+
+msgid "Brida"
+msgstr "بريدة"
+
+msgid "El Assafia"
+msgstr "العساسفة"
+
+msgid "El Beidha"
+msgstr "البيضاء"
+
+msgid "El Ghicha"
+msgstr "الغيشة"
+
+msgid "El Haouaita"
+msgstr "الحوايط"
+
+msgid "Gueltat Sidi Saad"
+msgstr "قلتة سيدي سعد"
+
+msgid "Hadj Mechri"
+msgstr "حاج مشري"
+
+msgid "Hassi Delaa"
+msgstr "حاسي الدلاعة"
+
+msgid "Hassi Rmel"
+msgstr "حاسي الرمل"
+
+msgid "Kheneg"
+msgstr "الخنق"
+
+msgid "Ksar El Hirane"
+msgstr "قصر الحيران"
+
+msgid "Oued Mzi"
+msgstr "وادي مزي"
+
+msgid "Oued Morra"
+msgstr "وادي مرة"
+
+msgid "Sebgag"
+msgstr "سبقاق"
+
+msgid "Sidi Bouzid"
+msgstr "سيدي بوزيد"
+
+msgid "Sidi Makhlouf"
+msgstr "سيدي مخلوف"
+
+msgid "Tadjemout"
+msgstr "تاجموت"
+
+msgid "Tadjrouna"
+msgstr "تاجرونة"
+
+msgid "Taouiala"
+msgstr "طويلة"
+
+# Cities of oum el Bouaghi province
+msgid "Ain Babouche"
+msgstr "عين ببوش"
+
+msgid "Ain Diss"
+msgstr "عين الديس"
+
+msgid "Ain Fekroun"
+msgstr "عين فكرون"
+
+msgid "Ain Kercha"
+msgstr "عين كرشة"
+
+msgid "Ain Mlila"
+msgstr "عين مليلة"
+
+msgid "Ain Zitoun"
+msgstr "عين الزيتون"
+
+msgid "Behir Chergui"
+msgstr "بحير الشرقي"
+
+msgid "Berriche"
+msgstr "البريش"
+
+msgid "Bir Chouhada"
+msgstr "بير الشهداء"
+
+msgid "Dhalaa"
+msgstr "الضلعة"
+
+msgid "El Amiria"
+msgstr "العامرية"
+
+msgid "El Belala"
+msgstr "البلالة"
+
+msgid "El Djazia"
+msgstr "الجازية"
+
+msgid "El Fedjoudj Boughrara Sa"
+msgstr "الفجوج بوغرارة سعيدة"
+
+msgid "El Harmilia"
+msgstr "الهرميلية"
+
+msgid "Fkirina"
+msgstr "فكيرينة"
+
+msgid "Hanchir Toumghani"
+msgstr "هنشير تومغاني"
+
+msgid "Ksar Sbahi"
+msgstr "قصر الصباحي"
+
+msgid "Meskiana"
+msgstr "مسكيانة"
+
+msgid "Oued Nini"
+msgstr "وادي نيني"
+
+msgid "Ouled Gacem"
+msgstr "أولاد قاسم"
+
+msgid "Ouled Hamla"
+msgstr "أولاد حملة"
+
+msgid "Ouled Zouai"
+msgstr "أولاد زواي"
+
+msgid "Rahia"
+msgstr "الراهية"
+
+msgid "Sigus"
+msgstr "سيقوس"
+
+msgid "Souk Naamane"
+msgstr "سوق نعمان"
+
+msgid "Zorg"
+msgstr "زرق"
+
+# Cities of Batna province
+msgid "Ain Djasser"
+msgstr "عين جاسر"
+
+msgid "Ain Touta"
+msgstr "عين التوتة"
+
+msgid "Ain Yagout"
+msgstr "عين ياقوت"
+
+msgid "Arris"
+msgstr "أريس"
+
+msgid "Azil Abedelkader"
+msgstr "عزيل عبد القادر"
+
+msgid "Barika"
+msgstr "بريكة"
+
+msgid "Beni Foudhala El Hakania"
+msgstr "بني فضالة الحقانية"
+
+msgid "Bitam"
+msgstr "بتام"
+
+msgid "Boulhilat"
+msgstr "بولحيلات"
+
+msgid "Boumagueur"
+msgstr "بومقر"
+
+msgid "Boumia"
+msgstr "بومية"
+
+msgid "Bouzina"
+msgstr "بوزينة"
+
+msgid "Chemora"
+msgstr "الشمرة"
+
+msgid "Chir"
+msgstr "شير"
+
+msgid "Djerma"
+msgstr "جرمة"
+
+msgid "Djezzar"
+msgstr "الجزار"
+
+msgid "El Madher"
+msgstr "المعذر"
+
+msgid "Fesdis"
+msgstr "فسديس"
+
+msgid "Foum Toub"
+msgstr "فم الطوب"
+
+msgid "Ghassira"
+msgstr "غسيرة"
+
+msgid "Gosbat"
+msgstr "القصبات"
+
+msgid "Guigba"
+msgstr "قيقبة"
+
+msgid "Hidoussa"
+msgstr "حدوسة"
+
+msgid "Ichemoul"
+msgstr "إيشمول"
+
+msgid "Inoughissen"
+msgstr "إينوغيسن"
+
+msgid "Kimmel"
+msgstr "كيمل"
+
+msgid "Ksar Bellezma"
+msgstr "قصر بلازمة"
+
+msgid "Larbaa"
+msgstr "الاربعاء"
+
+msgid "Lazrou"
+msgstr "لازرو"
+
+msgid "Lemcene"
+msgstr "لمسان"
+
+msgid "M Doukal"
+msgstr "ام الدوكل"
+
+msgid "Maafa"
+msgstr "معافة"
+
+msgid "Merouana"
+msgstr "مروانة"
+
+msgid "N Gaous"
+msgstr "نقاوس"
+
+msgid "Oued Chaaba"
+msgstr "وادي الشعبة"
+
+msgid "Oued El Ma"
+msgstr "وادي الماء"
+
+msgid "Oued Taga"
+msgstr "وادي طاقة"
+
+msgid "Ouled Ammar"
+msgstr "أولاد عمار"
+
+msgid "Ouled Aouf"
+msgstr "أولاد عوف"
+
+msgid "Ouled Fadel"
+msgstr "أولاد فاضل"
+
+msgid "Ouled Sellem"
+msgstr "أولاد سليم"
+
+msgid "Ouled Si Slimane"
+msgstr "أولاد سي سليمان"
+
+msgid "Ouyoun El Assafir"
+msgstr "عيون العصافير"
+
+msgid "Rahbat"
+msgstr "الرحبات"
+
+msgid "Ras El Aioun"
+msgstr "رأس العيون"
+
+msgid "Sefiane"
+msgstr "السفاينة"
+
+msgid "Seggana"
+msgstr "سغانة"
+
+msgid "Seriana"
+msgstr "سريانة"
+
+msgid "T Kout"
+msgstr "تكوت"
+
+msgid "Talkhamt"
+msgstr "تالخمات"
+
+msgid "Taxlent"
+msgstr "تاكسلانت"
+
+msgid "Tazoult"
+msgstr "تازولت"
+
+msgid "Teniet El Abed"
+msgstr "ثنية العابد"
+
+msgid "Tighanimine"
+msgstr "تيغانمين"
+
+msgid "Tigharghar"
+msgstr "تيغرغار"
+
+msgid "Tilatou"
+msgstr "تيلاتو"
+
+msgid "Timgad"
+msgstr "تيمقاد"
+
+msgid "Zanet El Beida"
+msgstr "زانة البيضاء"
+
+# Cities of bejaia
+msgid "Adekar"
+msgstr "أدكار"
+
+msgid "Ait Rzine"
+msgstr "آيت رزين"
+
+msgid "Ait-Smail"
+msgstr "آيت إسماعيل"
+
+msgid "Akbou"
+msgstr "أقبو"
+
+msgid "Akfadou"
+msgstr "أكفادو"
+
+msgid "Amalou"
+msgstr "أمالو"
+
+msgid "Amizour"
+msgstr "أميزور"
+
+msgid "Aokas"
+msgstr "أوقاس"
+
+msgid "Barbacha"
+msgstr "برباشة"
+
+msgid "Beni Djellil"
+msgstr "بني جليل"
+
+msgid "Beni Ksila"
+msgstr "بني كسيلة"
+
+msgid "Beni-Mallikeche"
+msgstr "بني مليكش"
+
+msgid "Benimaouche"
+msgstr "بني معوش"
+
+msgid "Boudjellil"
+msgstr "بو جليل"
+
+msgid "Bouhamza"
+msgstr "بوحمزة"
+
+msgid "Boukhelifa"
+msgstr "بوخليفة"
+
+msgid "Chellata"
+msgstr "شلاطة"
+
+msgid "Chemini"
+msgstr "شميني"
+
+msgid "Darguina"
+msgstr "درقينة"
+
+msgid "Dra El Caid"
+msgstr "ذراع القايد"
+
+msgid "El Kseur"
+msgstr "القصر"
+
+msgid "Fenaia Il Maten"
+msgstr "فناية الماثن"
+
+msgid "Feraoun"
+msgstr "فرعون"
+
+msgid "Ighil-Ali"
+msgstr "إغيل علي"
+
+msgid "Ighram"
+msgstr "إيغرام"
+
+msgid "Kendira"
+msgstr "كنديرة"
+
+msgid "Kherrata"
+msgstr "خراطة"
+
+msgid "Leflaye"
+msgstr "الفلاي"
+
+msgid "Mcisna"
+msgstr "مسيسنة"
+
+msgid "Melbou"
+msgstr "ملبو"
+
+msgid "Oued Ghir"
+msgstr "وادي غير"
+
+msgid "Ouzellaguen"
+msgstr "أوزلاقن"
+
+msgid "Seddouk"
+msgstr "صدوق"
+
+msgid "Sidi Ayad"
+msgstr "سيدي عياد"
+
+msgid "Sidi-Aich"
+msgstr "سيدي عيش"
+
+msgid "Smaoun"
+msgstr "سمعون"
+
+msgid "Souk El Tenine"
+msgstr "سوق الإثنين"
+
+msgid "Souk Oufella"
+msgstr "سوق أوفلا"
+
+msgid "Tala Hamza"
+msgstr "تالة حمزة"
+
+msgid "Tamokra"
+msgstr "تامقرة"
+
+msgid "Tamridjet"
+msgstr "تامريجت"
+
+msgid "Taourit Ighil"
+msgstr "تاوريرت إغيل"
+
+msgid "Taskriout"
+msgstr "تاسكريوت"
+
+msgid "Tazmalt"
+msgstr "تازمالت"
+
+msgid "Tibane"
+msgstr "طيبان"
+
+msgid "Tichy"
+msgstr "تيشي"
+
+msgid "Tifra"
+msgstr "طيفرة"
+
+msgid "Tinebdar"
+msgstr "تينبدار"
+
+msgid "Tizi Nberber"
+msgstr "تيزي نبربر"
+
+msgid "Toudja"
+msgstr "توجة"
+
+# Cities of Biskra province
+msgid "Ain Naga"
+msgstr "عين الناقة"
+
+msgid "Ain Zaatout"
+msgstr "عين زعطوط"
+
+msgid "Bordj Ben Azzouz"
+msgstr "برج بن عزوز"
+
+msgid "Bouchakroun"
+msgstr "بوشقرون"
+
+msgid "Branis"
+msgstr "برانس"
+
+msgid "Chetma"
+msgstr "شطمة"
+
+msgid "Djemorah"
+msgstr "الجمرة"
+
+msgid "El Feidh"
+msgstr "الفيض"
+
+msgid "El Ghrous"
+msgstr "الغروس"
+
+msgid "El Hadjab"
+msgstr "الحجاب"
+
+msgid "El Haouch"
+msgstr "الحوش"
+
+msgid "El Kantara"
+msgstr "القنطرة"
+
+msgid "El Outaya"
+msgstr "الوطاية"
+
+msgid "Foughala"
+msgstr "فوجالة"
+
+msgid "Khenguet Sidi Nadji"
+msgstr "خنقة سيدي ناجي"
+
+msgid "Lichana"
+msgstr "ليشانة"
+
+msgid "Lioua"
+msgstr "الليوة"
+
+msgid "Mchouneche"
+msgstr "مشونش"
+
+msgid "Mlili"
+msgstr "مليلي"
+
+msgid "Mekhadma"
+msgstr "مخادمة"
+
+msgid "Meziraa"
+msgstr "المزيرعة"
+
+msgid "Oumache"
+msgstr "أوماش"
+
+msgid "Ourlal"
+msgstr "أورلال"
+
+msgid "Sidi Okba"
+msgstr "سيدي عقبة"
+
+msgid "Tolga"
+msgstr "طولقة"
+
+msgid "Zeribet El Oued"
+msgstr "زريبة الوادي"
+
+# Cities of Béchar province
+msgid "Abadla"
+msgstr "أبعدلة"
+
+msgid "Beni-Ounif"
+msgstr "بني ونيف"
+
+msgid "Boukais"
+msgstr "بوكايس"
+
+msgid "Erg-Ferradj"
+msgstr "عرق فراج"
+
+msgid "Kenadsa"
+msgstr "كنadsa"
+
+msgid "Lahmar"
+msgstr "لحمر"
+
+msgid "Machraa-Houari-Boumediene"
+msgstr "مشرع هواري بومدين"
+
+msgid "Meridja"
+msgstr "مريجة"
+
+msgid "Mogheul"
+msgstr "موغل"
+
+msgid "Tabelbala"
+msgstr "تابلبالة"
+
+msgid "Taghit"
+msgstr "تاغيت"
+
+# Cities of Blida
+msgid "Ain Romana"
+msgstr "عين الرمانة"
+
+msgid "Beni Mered"
+msgstr "بني مراد"
+
+msgid "Beni-Tamou"
+msgstr "بني تامو"
+
+msgid "Benkhelil"
+msgstr "بن خليل"
+
+msgid "Bouarfa"
+msgstr "بوعرفة"
+
+msgid "Boufarik"
+msgstr "بوفاريك"
+
+msgid "Bouinan"
+msgstr "بويان"
+
+msgid "Chebli"
+msgstr "الشبلي"
+
+msgid "Chiffa"
+msgstr "الشفة"
+
+msgid "Chrea"
+msgstr "شريعة"
+
+msgid "Djebabra"
+msgstr "جبارة"
+
+msgid "El-Affroun"
+msgstr "العفرون"
+
+msgid "Guerrouaou"
+msgstr "قرواو"
+
+msgid "Hammam Elouane"
+msgstr "حمام الملوان"
+
+msgid "Meftah"
+msgstr "مفتاح"
+
+msgid "Mouzaia"
+msgstr "موزاية"
+
+msgid "Oued  Djer"
+msgstr "وادي جر"
+
+msgid "Oued El Alleug"
+msgstr "وادي العلايق"
+
+msgid "Ouled Slama"
+msgstr "أولاد سلامة"
+
+msgid "Ouled Yaich"
+msgstr "أولاد يعيش"
+
+msgid "Souhane"
+msgstr "صوحان"
+
+msgid "Soumaa"
+msgstr "الصومعة"
+
+# Cities of Bouira province
+msgid "Aghbalou"
+msgstr "أغبالو"
+
+msgid "Ahl El Ksar"
+msgstr "أهل القصر"
+
+msgid "Ain Laloui"
+msgstr "عين العلوي"
+
+msgid "Ain-Bessem"
+msgstr "عين بسام"
+
+msgid "Ait Laaziz"
+msgstr "آيت لعزيز"
+
+msgid "Aomar"
+msgstr "أعمر"
+
+msgid "Ath Mansour"
+msgstr "آث منصور"
+
+msgid "Bechloul"
+msgstr "بشلول"
+
+msgid "Bir Ghbalou"
+msgstr "بير غبالو"
+
+msgid "Bordj Okhriss"
+msgstr "برج أوخريص"
+
+msgid "Bouderbala"
+msgstr "بودربالة"
+
+msgid "Boukram"
+msgstr "بوكرام"
+
+msgid "Chorfa"
+msgstr "شرفة"
+
+msgid "Dechmia"
+msgstr "الدشمية"
+
+msgid "Dirah"
+msgstr "الضيعة"
+
+msgid "Djebahia"
+msgstr "الجباحية"
+
+msgid "El Adjiba"
+msgstr "العجيبة"
+
+msgid "El Asnam"
+msgstr "الأسنام"
+
+msgid "El Hachimia"
+msgstr "الهاشمية"
+
+msgid "El Khabouzia"
+msgstr "الخبوزية"
+
+msgid "El-Hakimia"
+msgstr "الحاكمية"
+
+msgid "El-Mokrani"
+msgstr "المقراني"
+
+msgid "Guerrouma"
+msgstr "قروما"
+
+msgid "Hadjera Zerga"
+msgstr "حجرة الزرقاء"
+
+msgid "Haizer"
+msgstr "خيزر"
+
+msgid "Hanif"
+msgstr "هانف"
+
+msgid "Kadiria"
+msgstr "القادرية"
+
+msgid "Lakhdaria"
+msgstr "الأخضرية"
+
+msgid "M Chedallah"
+msgstr "ام الشدالة"
+
+msgid "Maala"
+msgstr "معالة"
+
+msgid "Mezdour"
+msgstr "مزغور"
+
+msgid "Oued El Berdi"
+msgstr "وادي البردي"
+
+msgid "Ouled Rached"
+msgstr "أولاد راشد"
+
+msgid "Raouraoua"
+msgstr "روراوة"
+
+msgid "Ridane"
+msgstr "ريدان"
+
+msgid "Saharidj"
+msgstr "سحاريج"
+
+msgid "Souk El Khemis"
+msgstr "سوق الخميس"
+
+msgid "Sour El Ghozlane"
+msgstr "سور الغزلان"
+
+msgid "Taghzout"
+msgstr "تاغزوت"
+
+msgid "Taguedite"
+msgstr "تاقديت"
+
+msgid "Zbarbar (El Isseri )"
+msgstr "زبربر (العيسري)"
+
+# Cities of Tamanrasset province
+msgid "Abelsa"
+msgstr "أبلسة"
+
+msgid "Ain Amguel"
+msgstr "عين امقل"
+
+msgid "Idles"
+msgstr "إدلس"
+
+msgid "Tazrouk"
+msgstr "تازروك"
+
+# Cities of Tébessa
+msgid "Ain Zerga"
+msgstr "عين الزرقا"
+
+msgid "Bedjene"
+msgstr "بجن"
+
+msgid "Bekkaria"
+msgstr "بكارية"
+
+msgid "Bir Dheheb"
+msgstr "بير الذهب"
+
+msgid "Bir Mokkadem"
+msgstr "بير مقدام"
+
+msgid "Bir-El-Ater"
+msgstr "بير العاتر"
+
+msgid "Boukhdra"
+msgstr "بوخضرة"
+
+msgid "Boulhaf Dyr"
+msgstr "بولحاف الدير"
+
+msgid "Cheria"
+msgstr "الشريعة"
+
+msgid "El Kouif"
+msgstr "الكويف"
+
+msgid "El Malabiod"
+msgstr "الماء الأبيض"
+
+msgid "El Meridj"
+msgstr "المريج"
+
+msgid "El Mezeraa"
+msgstr "المزرعة"
+
+msgid "El Ogla"
+msgstr "العقلة"
+
+msgid "El Ogla El Malha"
+msgstr "العقلة الملاحة"
+
+msgid "El-Aouinet"
+msgstr "العوينات"
+
+msgid "El-Houidjbet"
+msgstr "الحويجبات"
+
+msgid "Ferkane"
+msgstr "فركان"
+
+msgid "Guorriguer"
+msgstr "قوريقور"
+
+msgid "Morsott"
+msgstr "مرسط"
+
+msgid "Negrine"
+msgstr "نقرين"
+
+msgid "Ouenza"
+msgstr "الونزة"
+
+msgid "Oum Ali"
+msgstr "أم علي"
+
+msgid "Saf Saf El Ouesra"
+msgstr "صفصاف الوسرى"
+
+msgid "Stah Guentis"
+msgstr "سطاح قنطيس"
+
+msgid "Telidjen"
+msgstr "تليجان"
+
+# cities of Tlemcen
+msgid "Ain Fetah"
+msgstr "عين فتاح"
+
+msgid "Ain Fezza"
+msgstr "عين فزة"
+
+msgid "Ain Ghoraba"
+msgstr "عين الغرابة"
+
+msgid "Ain Kebira"
+msgstr "عين الكبيرة"
+
+msgid "Ain Nehala"
+msgstr "عين النحالة"
+
+msgid "Ain Tellout"
+msgstr "عين تالوت"
+
+msgid "Ain Youcef"
+msgstr "عين يوسف"
+
+msgid "Amieur"
+msgstr "عمير"
+
+msgid "Azail"
+msgstr "أزيل"
+
+msgid "Bab El Assa"
+msgstr "باب العسة"
+
+msgid "Beni Bahdel"
+msgstr "بني بهدل"
+
+msgid "Beni Boussaid"
+msgstr "بني بوسعيد"
+
+msgid "Beni Khellad"
+msgstr "بني خلاد"
+
+msgid "Beni Mester"
+msgstr "بني مستر"
+
+msgid "Beni Ouarsous"
+msgstr "بني وارسوس"
+
+msgid "Beni Smiel"
+msgstr "بني سميع"
+
+msgid "Beni Snous"
+msgstr "بني سنوس"
+
+msgid "Bensekrane"
+msgstr "بن سكران"
+
+msgid "Bouhlou"
+msgstr "بوحلو"
+
+msgid "Bouihi"
+msgstr "بويهي"
+
+msgid "Chetouane"
+msgstr "شتوان"
+
+msgid "Dar Yaghmoracen"
+msgstr "دار يغمراسن"
+
+msgid "Djebala"
+msgstr "جبالة"
+
+msgid "El Aricha"
+msgstr "العريشة"
+
+msgid "El Fehoul"
+msgstr "الفحول"
+
+msgid "El Gor"
+msgstr "الغور"
+
+msgid "Fellaoucene"
+msgstr "فلاوسن"
+
+msgid "Ghazaouet"
+msgstr "غزاوات"
+
+msgid "Hammam Boughrara"
+msgstr "حمام بوغرارة"
+
+msgid "Hennaya"
+msgstr "الحناية"
+
+msgid "Honnaine"
+msgstr "هنين"
+
+msgid "Msirda Fouaga"
+msgstr "مسيردة الفوقة"
+
+msgid "Maghnia"
+msgstr "مغنية"
+
+msgid "Marsa Ben Mhidi"
+msgstr "مرسى بن مهيدي"
+
+msgid "Nedroma"
+msgstr "ندرومة"
+
+msgid "Oued Lakhdar"
+msgstr "وادي الأخضر"
+
+msgid "Ouled Mimoun"
+msgstr "أولاد ميمون"
+
+msgid "Ouled Riyah"
+msgstr "أولاد رياح"
+
+msgid "Remchi"
+msgstr "الرمشي"
+
+msgid "Sabra"
+msgstr "صبرة"
+
+msgid "Sebbaa Chioukh"
+msgstr "السبع شيوخ"
+
+msgid "Sebdou"
+msgstr "سبدو"
+
+msgid "Sidi Abdelli"
+msgstr "سيدي عبد اللي"
+
+msgid "Sidi Djillali"
+msgstr "سيدي الجيلالي"
+
+msgid "Sidi Medjahed"
+msgstr "سيدي مجاهد"
+
+msgid "Souahlia"
+msgstr "السواحلية"
+
+msgid "Souani"
+msgstr "السواني"
+
+msgid "Souk Tleta"
+msgstr "سوق الثلاثاء"
+
+msgid "Terny Beni Hediel"
+msgstr "طرني بني هديل"
+
+msgid "Tianet"
+msgstr "تيانت"
+
+msgid "Zenata"
+msgstr "زناتة"
+
+# cities of Tiaret
+msgid "Ain Bouchekif"
+msgstr "عين بوشقيف"
+
+msgid "Ain Deheb"
+msgstr "عين الذهب"
+
+msgid "Ain Dzarit"
+msgstr "عين زاريت"
+
+msgid "Ain El Hadid"
+msgstr "عين الحديد"
+
+msgid "Ain Kermes"
+msgstr "عين كرمس"
+
+msgid "Bougara"
+msgstr "بوقرة"
+
+msgid "Chehaima"
+msgstr "شحيمة"
+
+msgid "Dahmouni"
+msgstr "دحموني"
+
+msgid "Djebilet Rosfa"
+msgstr "جبيلات الرصفة"
+
+msgid "Djillali Ben Amar"
+msgstr "جيلالي بن عمار"
+
+msgid "Faidja"
+msgstr "الفايجة"
+
+msgid "Frenda"
+msgstr "فرندة"
+
+msgid "Guertoufa"
+msgstr "قرطوفة"
+
+msgid "Hamadia"
+msgstr "الحمادية"
+
+msgid "Ksar Chellala"
+msgstr "قصر الشلالة"
+
+msgid "Madna"
+msgstr "المدنة"
+
+msgid "Mahdia"
+msgstr "المهدية"
+
+msgid "Mechraa Safa"
+msgstr "مشرع الصفا"
+
+msgid "Medrissa"
+msgstr "المدريسة"
+
+msgid "Medroussa"
+msgstr "المدروسة"
+
+msgid "Meghila"
+msgstr "مغيلة"
+
+msgid "Mellakou"
+msgstr "ملاكاو"
+
+msgid "Nadorah"
+msgstr "الناظورة"
+
+msgid "Naima"
+msgstr "النعيمة"
+
+msgid "Oued Lilli"
+msgstr "وادي ليلي"
+
+msgid "Rahouia"
+msgstr "الرحوية"
+
+msgid "Rechaiga"
+msgstr "الرشايقة"
+
+msgid "Sebaine"
+msgstr "السبعين"
+
+msgid "Sebt"
+msgstr "السبت"
+
+msgid "Serghine"
+msgstr "سرغين"
+
+msgid "Si Abdelghani"
+msgstr "سي عبد الغني"
+
+msgid "Sidi Abderrahmane"
+msgstr "سيدي عبد الرحمن"
+
+msgid "Sidi Ali Mellal"
+msgstr "سيدي علي ملال"
+
+msgid "Sidi Bakhti"
+msgstr "سيدي بختي"
+
+msgid "Sidi Hosni"
+msgstr "سيدي حسني"
+
+msgid "Sougueur"
+msgstr "السوقر"
+
+msgid "Tagdempt"
+msgstr "تاقدمت"
+
+msgid "Takhemaret"
+msgstr "تخمرت"
+
+msgid "Tidda"
+msgstr "تيدة"
+
+msgid "Tousnina"
+msgstr "توسنينة"
+
+msgid "Zmalet El Emir Abdelkade"
+msgstr "زمالة الأمير عبد القادر"
+
+# Cities of Tizi Ouzou
+msgid "Abi-Youcef"
+msgstr "أبي يوسف"
+
+msgid "Aghribs"
+msgstr "أغريب"
+
+msgid "Agouni-Gueghrane"
+msgstr "أقني قغران"
+
+msgid "Ain-El-Hammam"
+msgstr "عين الحمام"
+
+msgid "Ain-Zaouia"
+msgstr "عين الزاوية"
+
+msgid "Ait Aggouacha"
+msgstr "آيت عڨواش"
+
+msgid "Ait Bouaddou"
+msgstr "آيت بوعدو"
+
+msgid "Ait Boumahdi"
+msgstr "آيت بومهدي"
+
+msgid "Ait Khellili"
+msgstr "آيت خليلي"
+
+msgid "Ait Yahia Moussa"
+msgstr "آيت يحيى موسى"
+
+msgid "Ait-Aissa-Mimoun"
+msgstr "آيت عيسى ميمون"
+
+msgid "Ait-Chafaa"
+msgstr "آيت شفعة"
+
+msgid "Ait-Mahmoud"
+msgstr "آيت محمود"
+
+msgid "Ait-Oumalou"
+msgstr "آيت أومالو"
+
+msgid "Ait-Toudert"
+msgstr "آيت تودرت"
+
+msgid "Ait-Yahia"
+msgstr "آيت يحيى"
+
+msgid "Akbil"
+msgstr "أقبيل"
+
+msgid "Akerrou"
+msgstr "أقرو"
+
+msgid "Assi-Youcef"
+msgstr "عسي يوسف"
+
+msgid "Azazga"
+msgstr "أزفون"
+
+msgid "Azeffoun"
+msgstr "أزفون"
+
+msgid "Beni Zmenzer"
+msgstr "بني زمنزر"
+
+msgid "Beni Aissi"
+msgstr "بني عيسي"
+
+msgid "Beni Douala"
+msgstr "بني دوالة"
+
+msgid "Beni Yenni"
+msgstr "بني يني"
+
+msgid "Beni Zikki"
+msgstr "بني زيكي"
+
+msgid "Boghni"
+msgstr "بوغني"
+
+msgid "Boudjima"
+msgstr "بوجيمة"
+
+msgid "Bounouh"
+msgstr "بونوح"
+
+msgid "Bouzeguene"
+msgstr "بوزقن"
+
+msgid "Draa-Ben-Khedda"
+msgstr "ذراع بن خدة"
+
+msgid "Draa-El-Mizan"
+msgstr "ذراع الميزان"
+
+msgid "Freha"
+msgstr "فريحة"
+
+msgid "Frikat"
+msgstr "فريقات"
+
+msgid "Iboudrarene"
+msgstr "إبودرارن"
+
+msgid "Idjeur"
+msgstr "إيجر"
+
+msgid "Iferhounene"
+msgstr "إيفرحونن"
+
+msgid "Ifigha"
+msgstr "إيفيغاء"
+
+msgid "Iflissen"
+msgstr "إفليسن"
+
+msgid "Illilten"
+msgstr "إيلولتين"
+
+msgid "Illoula Oumalou"
+msgstr "إيلولة أومالو"
+
+msgid "Imsouhal"
+msgstr "إمسوحال"
+
+msgid "Irdjen"
+msgstr "إيرجن"
+
+msgid "Larbaa Nath Irathen"
+msgstr "الأربعاء ناث إيراثن"
+
+msgid "Mkira"
+msgstr "مكيرة"
+
+msgid "Maatkas"
+msgstr "معاتقة"
+
+msgid "Makouda"
+msgstr "ماكودة"
+
+msgid "Mechtras"
+msgstr "مشطراس"
+
+msgid "Mekla"
+msgstr "مقلع"
+
+msgid "Mizrana"
+msgstr "ميزرانة"
+
+msgid "Ouacif"
+msgstr "واسيف"
+
+msgid "Ouadhias"
+msgstr "واضية"
+
+msgid "Ouaguenoun"
+msgstr "واقنون"
+
+msgid "Sidi Namane"
+msgstr "سيدي نعمان"
+
+msgid "Souama"
+msgstr "السوامع"
+
+msgid "Souk-El-Tenine"
+msgstr "سوق الإثنين"
+
+msgid "Tadmait"
+msgstr "تادمايت"
+
+msgid "Tigzirt"
+msgstr "تيقزيرت"
+
+msgid "Timizart"
+msgstr "تيميزارت"
+
+msgid "Tirmitine"
+msgstr "تيرمتين"
+
+msgid "Tizi Ntleta"
+msgstr "تيزي نثلاثة"
+
+msgid "Tizi Gheniff"
+msgstr "تيزي غنيف"
+
+msgid "Tizi Rached"
+msgstr "تيزي راشد"
+
+msgid "Yakourene"
+msgstr "ياقورين"
+
+msgid "Yatafene"
+msgstr "يطافن"
+
+msgid "Zekri"
+msgstr "زكري"
+
+# Cities of Algiers province
+msgid "Ain Benian"
+msgstr "عين البنيان"
+
+msgid "Ain Taya"
+msgstr "عين طاية"
+
+msgid "Alger Centre"
+msgstr "الجزائر الوسطى"
+
+msgid "Bab El Oued"
+msgstr "باب الوادي"
+
+msgid "Bab Ezzouar"
+msgstr "باب الزوار"
+
+msgid "Baba Hassen"
+msgstr "بابا حسن"
+
+msgid "Bachedjerah"
+msgstr "باش جراح"
+
+msgid "Baraki"
+msgstr "براقي"
+
+msgid "Ben Aknoun"
+msgstr "بن عكنون"
+
+msgid "Beni Messous"
+msgstr "بني مسوس"
+
+msgid "Bir Mourad Rais"
+msgstr "بئر مراد رايس"
+
+msgid "Bir Touta"
+msgstr "بئر توتة"
+
+msgid "Birkhadem"
+msgstr "بئر خادم"
+
+msgid "Bologhine Ibnou Ziri"
+msgstr "بولوغين ابن زيري"
+
+msgid "Bordj El Bahri"
+msgstr "برج البحري"
+
+msgid "Bordj El Kiffan"
+msgstr "برج الكيفان"
+
+msgid "Bourouba"
+msgstr "الرويبة"
+
+msgid "Bouzareah"
+msgstr "بوزريعة"
+
+msgid "Casbah"
+msgstr "القصبة"
+
+msgid "Cheraga"
+msgstr "الشراقة"
+
+msgid "Dar El Beida"
+msgstr "دار البيضاء"
+
+msgid "Dely Ibrahim"
+msgstr "دالي إبراهيم"
+
+msgid "Djasr Kasentina"
+msgstr "جسر قسنطينة"
+
+msgid "Douira"
+msgstr "الدويرة"
+
+msgid "Draria"
+msgstr "الدرارية"
+
+msgid "El Achour"
+msgstr "الأخضرية"
+
+msgid "El Biar"
+msgstr "الأبيار"
+
+msgid "El Harrach"
+msgstr "الحراش"
+
+msgid "El Madania"
+msgstr "المدنية"
+
+msgid "El Magharia"
+msgstr "المغارية"
+
+msgid "El Marsa"
+msgstr "المرسى"
+
+msgid "El Mouradia"
+msgstr "المورادية"
+
+msgid "Hammamet"
+msgstr "الحمامات"
+
+msgid "Herraoua"
+msgstr "هراوة"
+
+msgid "Hussein Dey"
+msgstr "حسين داي"
+
+msgid "Hydra"
+msgstr "حيدرة"
+
+msgid "Khraissia"
+msgstr "خرايسية"
+
+msgid "Kouba"
+msgstr "القبة"
+
+msgid "Les Eucalyptus"
+msgstr "الكاليتوس"
+
+msgid "Maalma"
+msgstr "المعلمية"
+
+msgid "Mohamed Belouzdad"
+msgstr "محمد بلوزداد"
+
+msgid "Oued Koriche"
+msgstr "وادي قريش"
+
+msgid "Oued Smar"
+msgstr "وادي سمار"
+
+msgid "Ouled Chebel"
+msgstr "أولاد شبل"
+
+msgid "Ouled Fayet"
+msgstr "أولاد فايت"
+
+msgid "Rahmania"
+msgstr "الرحمانية"
+
+msgid "Rais Hamidou"
+msgstr "الرايس حميدو"
+
+msgid "Reghaia"
+msgstr "الرغاية"
+
+msgid "Rouiba"
+msgstr "الرويبة"
+
+msgid "Sehaoula"
+msgstr "السحاولة"
+
+msgid "Sidi Mhamed"
+msgstr "سيدي امحمد"
+
+msgid "Sidi Moussa"
+msgstr "سيدي موسى"
+
+msgid "Souidania"
+msgstr "سويدانية"
+
+msgid "Staoueli"
+msgstr "سطاوالي"
+
+msgid "Tessala El Merdja"
+msgstr "تسالة المرجى"
+
+msgid "Zeralda"
+msgstr "زرالدة"
+
+# Cities of Djelfa province
+msgid "Ain Chouhada"
+msgstr "عين الشهداء"
+
+msgid "Ain El Ibel"
+msgstr "عين الإبل"
+
+msgid "Ain Fekka"
+msgstr "عين فكة"
+
+msgid "Ain Maabed"
+msgstr "عين معبد"
+
+msgid "Ain Oussera"
+msgstr "عين وسارة"
+
+msgid "Amourah"
+msgstr "عمورة"
+
+msgid "Benhar"
+msgstr "بنهار"
+
+msgid "Benyagoub"
+msgstr "بني يعقوب"
+
+msgid "Birine"
+msgstr "بيرين"
+
+msgid "Bouira Lahdab"
+msgstr "بويرة الأحداب"
+
+msgid "Charef"
+msgstr "الشارف"
+
+msgid "Dar Chioukh"
+msgstr "دار الشيوخ"
+
+msgid "Deldoul"
+msgstr "دلدول"
+
+msgid "Douis"
+msgstr "الدويس"
+
+msgid "El Guedid"
+msgstr "القديد"
+
+msgid "El Idrissia"
+msgstr "الإدريسية"
+
+msgid "El Khemis"
+msgstr "الخميس"
+
+msgid "Faidh El Botma"
+msgstr "فيض البطمة"
+
+msgid "Guernini"
+msgstr "قرنيني"
+
+msgid "Guettara"
+msgstr "قطارة"
+
+msgid "Had Sahary"
+msgstr "حد الصحاري"
+
+msgid "Hassi Bahbah"
+msgstr "حاسي بحبح"
+
+msgid "Hassi El Euch"
+msgstr "حاسي العش"
+
+msgid "Hassi Fedoul"
+msgstr "حاسي فدول"
+
+msgid "Mliliha"
+msgstr "مليليحة"
+
+msgid "Messaad"
+msgstr "مسعد"
+
+msgid "Moudjebara"
+msgstr "مجبرة"
+
+msgid "Oum Laadham"
+msgstr "أم العظام"
+
+msgid "Sed Rahal"
+msgstr "سد رحال"
+
+msgid "Selmana"
+msgstr "سلمانة"
+
+msgid "Sidi Baizid"
+msgstr "سيدي بايزيد"
+
+msgid "Sidi Laadjel"
+msgstr "سيدي لعجال"
+
+msgid "Taadmit"
+msgstr "تعضميت"
+
+msgid "Zaafrane"
+msgstr "زعفران"
+
+msgid "Zaccar"
+msgstr "زكار"
+
+# Cities of Jijel province
+msgid "Bordj Thar"
+msgstr "برج الطهر"
+
+msgid "Boudria Beniyadjis"
+msgstr "بودريعة بني ياجيس"
+
+msgid "Bouraoui Belhadef"
+msgstr "بوراوي بلهادف"
+
+msgid "Boussif Ouled Askeur"
+msgstr "بوسيف أولاد عسكر"
+
+msgid "Chahna"
+msgstr "الشحنة"
+
+msgid "Chekfa"
+msgstr "الشقفة"
+
+msgid "Djemaa Beni Habibi"
+msgstr "جمعة بني حبيبي"
+
+msgid "Djimla"
+msgstr "جيملة"
+
+msgid "El Ancer"
+msgstr "العنصر"
+
+msgid "El Aouana"
+msgstr "العوانة"
+
+msgid "El Kennar Nouchfi"
+msgstr "القنار نشفي"
+
+msgid "El Milia"
+msgstr "الميلية"
+
+msgid "Emir Abdelkader"
+msgstr "الأمير عبد القادر"
+
+msgid "Erraguene Souissi"
+msgstr "عرقون السويسي"
+
+msgid "Ghebala"
+msgstr "غبالة"
+
+msgid "Kaous"
+msgstr "قاوس"
+
+msgid "Khiri Oued Adjoul"
+msgstr "خيري وادي عجول"
+
+msgid "Oudjana"
+msgstr "أوجنة"
+
+msgid "Ouled Rabah"
+msgstr "أولاد رابح"
+
+msgid "Ouled Yahia Khadrouch"
+msgstr "أولاد يحيى خدروش"
+
+msgid "Selma Benziada"
+msgstr "سلمى بن زياد"
+
+msgid "Settara"
+msgstr "سطارة"
+
+msgid "Sidi Abdelaziz"
+msgstr "سيدي عبد العزيز"
+
+msgid "Sidi Marouf"
+msgstr "سيدي معروف"
+
+msgid "Taher"
+msgstr "الطاهر"
+
+msgid "Texenna"
+msgstr "تاكسنة"
+
+msgid "Ziama Mansouriah"
+msgstr "زيامة منصورية"
+
+# Cities of Sétif province
+msgid "Ain Abessa"
+msgstr "عين عباسة"
+
+msgid "Ain Arnat"
+msgstr "عين أرنات"
+
+msgid "Ain Azel"
+msgstr "عين أزال"
+
+msgid "Ain El Kebira"
+msgstr "عين الكبيرة"
+
+msgid "Ain Lahdjar"
+msgstr "عين الحجر"
+
+msgid "Ain Oulmene"
+msgstr "عين أولمن"
+
+msgid "Ain-Legradj"
+msgstr "عين لقراج"
+
+msgid "Ain-Roua"
+msgstr "عين الروى"
+
+msgid "Ain-Sebt"
+msgstr "عين السبت"
+
+msgid "Ait Naoual Mezada"
+msgstr "آيت نوال مزادة"
+
+msgid "Ait-Tizi"
+msgstr "آيت تيزي"
+
+msgid "Amoucha"
+msgstr "عموشة"
+
+msgid "Babor"
+msgstr "بابور"
+
+msgid "Bazer-Sakra"
+msgstr "بازر صakra"
+
+msgid "Beidha Bordj"
+msgstr "بيضاء برج"
+
+msgid "Bellaa"
+msgstr "بلاعة"
+
+msgid "Beni Chebana"
+msgstr "بني شبانة"
+
+msgid "Beni Fouda"
+msgstr "بني فودة"
+
+msgid "Beni Ourtilane"
+msgstr "بني ورثلان"
+
+msgid "Beni Oussine"
+msgstr "بني وسين"
+
+msgid "Beni-Aziz"
+msgstr "بني عزيز"
+
+msgid "Beni-Mouhli"
+msgstr "بني موحلي"
+
+msgid "Bir Haddada"
+msgstr "بير حدادة"
+
+msgid "Bir-El-Arch"
+msgstr "بير العرش"
+
+msgid "Bouandas"
+msgstr "بوعنداس"
+
+msgid "Bougaa"
+msgstr "بوقاعة"
+
+msgid "Bousselam"
+msgstr "بوسلام"
+
+msgid "Boutaleb"
+msgstr "بوطالب"
+
+msgid "Dehamcha"
+msgstr "الدهمشة"
+
+msgid "Djemila"
+msgstr "جميلة"
+
+msgid "Draa-Kebila"
+msgstr "ذراع قبيلة"
+
+msgid "El Ouricia"
+msgstr "أولاد عروسية"
+
+msgid "El-Ouldja"
+msgstr "الولجة"
+
+msgid "Guellal"
+msgstr "قلال"
+
+msgid "Guelta Zerka"
+msgstr "قلتة زرقاء"
+
+msgid "Guenzet"
+msgstr "قنزات"
+
+msgid "Guidjel"
+msgstr "قجال"
+
+msgid "Hamam Soukhna"
+msgstr "حمام السخنة"
+
+msgid "Hamma"
+msgstr "الحامة"
+
+msgid "Hammam Guergour"
+msgstr "حمام قرقور"
+
+msgid "Harbil"
+msgstr "حربيل"
+
+msgid "Kasr El Abtal"
+msgstr "قصر الأبطال"
+
+msgid "Maaouia"
+msgstr "معاوية"
+
+msgid "Maouaklane"
+msgstr "معوكلان"
+
+msgid "Mezloug"
+msgstr "مزلوق"
+
+msgid "Oued El Bared"
+msgstr "وادي البارد"
+
+msgid "Ouled Addouane"
+msgstr "أولاد عدوان"
+
+msgid "Ouled Sabor"
+msgstr "أولاد صابر"
+
+msgid "Ouled Si Ahmed"
+msgstr "أولاد سي أحمد"
+
+msgid "Ouled Tebben"
+msgstr "أولاد طابين"
+
+msgid "Rosfa"
+msgstr "الرصفة"
+
+msgid "Salah Bey"
+msgstr "صالح باي"
+
+msgid "Serdj-El-Ghoul"
+msgstr "سرج الغول"
+
+msgid "Tachouda"
+msgstr "تاشودة"
+
+msgid "Tala-Ifacene"
+msgstr "تالة إيفاسن"
+
+msgid "Taya"
+msgstr "طاية"
+
+msgid "Tella"
+msgstr "تالة"
+
+msgid "Tizi Nbechar"
+msgstr "تيزي نبشار"
+
+# Cities of Saïda province
+msgid "Ain El Hadjar"
+msgstr "عين الحجر"
+
+msgid "Ain Sekhouna"
+msgstr "عين السخونة"
+
+msgid "Doui Thabet"
+msgstr "دوي ثابت"
+
+msgid "El Hassasna"
+msgstr "الحساسنة"
+
+msgid "Hounet"
+msgstr "هونت"
+
+msgid "Maamora"
+msgstr "المعمورة"
+
+msgid "Moulay Larbi"
+msgstr "مولاي العربي"
+
+msgid "Ouled Brahim"
+msgstr "أولاد إبراهيم"
+
+msgid "Ouled Khaled"
+msgstr "أولاد خالد"
+
+msgid "Sidi Ahmed"
+msgstr "سيدي أحمد"
+
+msgid "Sidi Boubekeur"
+msgstr "سيدي بوبكر"
+
+msgid "Tircine"
+msgstr "تيرسين"
+
+msgid "Youb"
+msgstr "يوب"
+
+# Cities of Skikda province
+msgid "Ain Bouziane"
+msgstr "عين بوزيان"
+
+msgid "Ain Charchar"
+msgstr "عين شرشار"
+
+msgid "Ain Kechra"
+msgstr "عين قشرة"
+
+msgid "Ain Zouit"
+msgstr "عين الزيت"
+
+msgid "Azzaba"
+msgstr "عزابة"
+
+msgid "Bekkouche Lakhdar"
+msgstr "بكوش لخضر"
+
+msgid "Ben Azzouz"
+msgstr "بن عزوز"
+
+msgid "Beni Bechir"
+msgstr "بني بشير"
+
+msgid "Beni Oulbane"
+msgstr "بني ولبان"
+
+msgid "Beni Zid"
+msgstr "بني زيد"
+
+msgid "Bin El Ouiden"
+msgstr "بن العويدات"
+
+msgid "Bouchetata"
+msgstr "بوشتاتة"
+
+msgid "Cheraia"
+msgstr "شرايع"
+
+msgid "Collo"
+msgstr "القـل"
+
+msgid "Djendel Saadi Mohamed"
+msgstr "جندل سعدي محمد"
+
+msgid "El Arrouch"
+msgstr "العروش"
+
+msgid "El Ghedir"
+msgstr "الغدير"
+
+msgid "El Hadaiek"
+msgstr "الحدائق"
+
+msgid "Emjez Edchich"
+msgstr "امجيز الدشيش"
+
+msgid "Es Sebt"
+msgstr "السبت"
+
+msgid "Filfila"
+msgstr "فلفلة"
+
+msgid "Hammadi Krouma"
+msgstr "حمادي كرومة"
+
+msgid "Kanoua"
+msgstr "الكنوة"
+
+msgid "Kerkara"
+msgstr "كركارة"
+
+msgid "Khenag Maoune"
+msgstr "خناق ماون"
+
+msgid "Oued Zhour"
+msgstr "وادي الزهور"
+
+msgid "Ouldja Boulbalout"
+msgstr "الولجة بوبلالوت"
+
+msgid "Ouled Attia"
+msgstr "أولاد عطية"
+
+msgid "Ouled Habbaba"
+msgstr "أولاد هبابة"
+
+msgid "Oum Toub"
+msgstr "أم الطوب"
+
+msgid "Ramdane Djamel"
+msgstr "رمضان جمال"
+
+msgid "Salah Bouchaour"
+msgstr "صالح بوشعور"
+
+msgid "Sidi Mezghiche"
+msgstr "سيدي مزغيش"
+
+msgid "Tamalous"
+msgstr "تمالوس"
+
+msgid "Zerdezas"
+msgstr "زرداز"
+
+msgid "Zitouna"
+msgstr "الزيتونة"
+
+# Cities of sido bel Abbes
+msgid "Ain El Berd"
+msgstr "عين البرد"
+
+msgid "Ain Kada"
+msgstr "عين قادة"
+
+msgid "Ain Thrid"
+msgstr "عين الثريد"
+
+msgid "Ain Tindamine"
+msgstr "عين تندمين"
+
+msgid "Ain- Adden"
+msgstr "عين عادن"
+
+msgid "Amarnas"
+msgstr "عمرناس"
+
+msgid "Bedrabine El Mokrani"
+msgstr "بضربين المقراني"
+
+msgid "Belarbi"
+msgstr "بلعربي"
+
+msgid "Benachiba Chelia"
+msgstr "بن عشيب شلية"
+
+msgid "Bir El Hammam"
+msgstr "بير الحمام"
+
+msgid "Boudjebaa El Bordj"
+msgstr "بوجبعا البرج"
+
+msgid "Boukhanefis"
+msgstr "بوخنيفيس"
+
+msgid "Chetouane Belaila"
+msgstr "شتوان بلايلة"
+
+msgid "Dhaya"
+msgstr "الضاية"
+
+msgid "El Hacaiba"
+msgstr "الحصايبية"
+
+msgid "Hassi Dahou"
+msgstr "حاسي دحو"
+
+msgid "Hassi Zahana"
+msgstr "حاسي زهانة"
+
+msgid "Lamtar"
+msgstr "لمطار"
+
+msgid "Mcid"
+msgstr "مسيد"
+
+msgid "Makedra"
+msgstr "ماكدرة"
+
+msgid "Marhoum"
+msgstr "مرحوم"
+
+msgid "Merine"
+msgstr "ميرين"
+
+msgid "Mezaourou"
+msgstr "مزاورو"
+
+msgid "Mostefa  Ben Brahim"
+msgstr "مصطفى بن إبراهيم"
+
+msgid "Moulay Slissen"
+msgstr "مولاي السليس"
+
+msgid "Oued Sebaa"
+msgstr "وادي السبع"
+
+msgid "Oued Sefioun"
+msgstr "وادي السفيون"
+
+msgid "Oued Taourira"
+msgstr "وادي تاوريرة"
+
+msgid "Ras El Ma"
+msgstr "رأس الماء"
+
+msgid "Redjem Demouche"
+msgstr "رجم دموش"
+
+msgid "Sehala Thaoura"
+msgstr "سهالة الثورة"
+
+msgid "Sfisef"
+msgstr "سفيزف"
+
+msgid "Sidi Ali Benyoub"
+msgstr "سيدي علي بن يوب"
+
+msgid "Sidi Ali Boussidi"
+msgstr "سيدي علي بوسيدي"
+
+msgid "Sidi Brahim"
+msgstr "سيدي إبراهيم"
+
+msgid "Sidi Chaib"
+msgstr "سيدي خيب"
+
+msgid "Sidi Dahou Zairs"
+msgstr "سيدي دحو زايرس"
+
+msgid "Sidi Hamadouche"
+msgstr "سيدي حمادوش"
+
+msgid "Sidi Lahcene"
+msgstr "سيدي الحسين"
+
+msgid "Sidi Yacoub"
+msgstr "سيدي يعقوب"
+
+msgid "Tabia"
+msgstr "الطابية"
+
+msgid "Taoudmout"
+msgstr "تاودموت"
+
+msgid "Tefessour"
+msgstr "تفاسور"
+
+msgid "Teghalimet"
+msgstr "تغاليمت"
+
+msgid "Telagh"
+msgstr "تلاغ"
+
+msgid "Tenira"
+msgstr "تنيرة"
+
+msgid "Tessala"
+msgstr "تسالة"
+
+msgid "Tilmouni"
+msgstr "تلموني"
+
+msgid "Zerouala"
+msgstr "زروالة"
+
+# Cities of Annaba province
+msgid "Ain El Berda"
+msgstr "عين الباردة"
+
+msgid "Berrahal"
+msgstr "برحال"
+
+msgid "Chetaibi"
+msgstr "شطايبي"
+
+msgid "Cheurfa"
+msgstr "الشرفاء"
+
+msgid "El Bouni"
+msgstr "البوني"
+
+msgid "El Eulma"
+msgstr "العلمة"
+
+msgid "El Hadjar"
+msgstr "الحجار"
+
+msgid "Oued El Aneb"
+msgstr "وادي العنب"
+
+msgid "Seraidi"
+msgstr "سرايدي"
+
+msgid "Treat"
+msgstr "الطرقات"
+
+# Cities of Guelma province
+msgid "Ain Ben Beida"
+msgstr "عين بن بيضاء"
+
+msgid "Ain Larbi"
+msgstr "عين العربي"
+
+msgid "Ain Makhlouf"
+msgstr "عين مخلوف"
+
+msgid "Ain Regada"
+msgstr "عين رقادة"
+
+msgid "Ain Sandel"
+msgstr "عين صندل"
+
+msgid "Belkheir"
+msgstr "بلخير"
+
+msgid "Bendjarah"
+msgstr "بنجرة"
+
+msgid "Beni Mezline"
+msgstr "بني مزلين"
+
+msgid "Bordj Sabath"
+msgstr "برج صباط"
+
+msgid "Bou Hachana"
+msgstr "بوحشانة"
+
+msgid "Bou Hamdane"
+msgstr "بو حمدان"
+
+msgid "Bouati Mahmoud"
+msgstr "بوعاتي محمود"
+
+msgid "Bouchegouf"
+msgstr "بوشقوف"
+
+msgid "Boumahra Ahmed"
+msgstr "بومهرة أحمد"
+
+msgid "Dahouara"
+msgstr "الدهاهرة"
+
+msgid "Djeballah Khemissi"
+msgstr "جبالة الخميسي"
+
+msgid "El Fedjoudj"
+msgstr "الفجوج"
+
+msgid "Guelaat Bou Sbaa"
+msgstr "قلعة بوسبع"
+
+msgid "Hammam Debagh"
+msgstr "حمام دباغ"
+
+msgid "Hammam Nbail"
+msgstr "حمام النبايل"
+
+msgid "Heliopolis"
+msgstr "هليوبوليس"
+
+msgid "Houari Boumedienne"
+msgstr "هواري بومدين"
+
+msgid "Khezaras"
+msgstr "خزارة"
+
+msgid "Medjez Amar"
+msgstr "مجاز عمار"
+
+msgid "Medjez Sfa"
+msgstr "مجاز الصفا"
+
+msgid "Nechmaya"
+msgstr "نشماية"
+
+msgid "Oued Cheham"
+msgstr "وادي الشحم"
+
+msgid "Oued Ferragha"
+msgstr "وادي فراغة"
+
+msgid "Oued Zenati"
+msgstr "وادي الزناتي"
+
+msgid "Ras El Agba"
+msgstr "رأس العقبة"
+
+msgid "Roknia"
+msgstr "ركنية"
+
+msgid "Sellaoua Announa"
+msgstr "سلوى عينونة"
+
+msgid "Tamlouka"
+msgstr "تاملوكة"
+
+# All Cities
+# Cities of Constantine Province (25)
+msgid "Ain Abid"
+msgstr "عين عبيد"
+
+msgid "Ain Smara"
+msgstr "عين سمارة"
+
+msgid "Ben Badis"
+msgstr "بن باديس"
+
+msgid "Beni Hamidane"
+msgstr "بني حميدان"
+
+msgid "Didouche Mourad"
+msgstr "ديدوش مراد"
+
+msgid "El Khroub"
+msgstr "الخروب"
+
+msgid "Hamma Bouziane"
+msgstr "حامة بوزيان"
+
+msgid "Ibn Ziad"
+msgstr "ابن زياد"
+
+msgid "Messaoud Boudjeriou"
+msgstr "مسعود بوجريو"
+
+msgid "Ouled Rahmoun"
+msgstr "أولاد رحمون"
+
+msgid "Zighoud Youcef"
+msgstr "زيغود يوسف"
+
+# Cities of Medea Province (26)
+msgid "Ain Boucif"
+msgstr "عين بوسيف"
+
+msgid "Ain Ouksir"
+msgstr "عين اقصير"
+
+msgid "Aissaouia"
+msgstr "العيساوية"
+
+msgid "Aziz"
+msgstr "عزيز"
+
+msgid "Baata"
+msgstr "بعطة"
+
+msgid "Ben Chicao"
+msgstr "بن شكاو"
+
+msgid "Beni Slimane"
+msgstr "بني سليمان"
+
+msgid "Berrouaghia"
+msgstr "البرواقية"
+
+msgid "Bir Ben Laabed"
+msgstr "بئر بن العابد"
+
+msgid "Boghar"
+msgstr "بوغار"
+
+msgid "Bouaiche"
+msgstr "بوعيش"
+
+msgid "Bouaichoune"
+msgstr "بوعيشون"
+
+msgid "Bouchrahil"
+msgstr "بوشراحيل"
+
+msgid "Boughzoul"
+msgstr "بوغزول"
+
+msgid "Bouskene"
+msgstr "بوسكن"
+
+msgid "Chabounia"
+msgstr "شعبونية"
+
+msgid "Chelalet El Adhaoura"
+msgstr "شلالة العذاورة"
+
+msgid "Cheniguel"
+msgstr "شنيقل"
+
+msgid "Derrag"
+msgstr "دراق"
+
+msgid "Djouab"
+msgstr "جواب"
+
+msgid "Draa Esmar"
+msgstr "ذراع السمار"
+
+msgid "El Azizia"
+msgstr "العزيزية"
+
+msgid "El Guelbelkebir"
+msgstr "القلب الكبير"
+
+msgid "El Hamdania"
+msgstr "الحمدانية"
+
+msgid "El Haoudane"
+msgstr "الحوضان"
+
+msgid "El Omaria"
+msgstr "العمارية"
+
+msgid "El Ouinet"
+msgstr "العوينات"
+
+msgid "Hannacha"
+msgstr "حناشة"
+
+msgid "Kef Lakhdar"
+msgstr "الكاف الأخضر"
+
+msgid "Khams Djouamaa"
+msgstr "خمس جوامع"
+
+msgid "Ksar El Boukhari"
+msgstr "قصر البخاري"
+
+msgid "Mfatha"
+msgstr "مفاتحة"
+
+msgid "Maghraoua"
+msgstr "مغراوة"
+
+msgid "Medjebar"
+msgstr "مجبر"
+
+msgid "Mezerana"
+msgstr "مزغرانة"
+
+msgid "Mihoub"
+msgstr "ميهوب"
+
+msgid "Ouamri"
+msgstr "وعمري"
+
+msgid "Oued Harbil"
+msgstr "واد حربيل"
+
+msgid "Ouled Antar"
+msgstr "أولاد عنتر"
+
+msgid "Ouled Bouachra"
+msgstr "أولاد بوعشرة"
+
+msgid "Ouled Deid"
+msgstr "أولاد دايد"
+
+msgid "Ouled Emaaraf"
+msgstr "أولاد معرف"
+
+msgid "Ouled Hellal"
+msgstr "أولاد هلال"
+
+msgid "Oum El Djellil"
+msgstr "أم الجليل"
+
+msgid "Ouzera"
+msgstr "وزرة"
+
+msgid "Rebaia"
+msgstr "الربعية"
+
+msgid "Saneg"
+msgstr "صانق"
+
+msgid "Sedraya"
+msgstr "سدراية"
+
+msgid "Seghouane"
+msgstr "سغوان"
+
+msgid "Si Mahdjoub"
+msgstr "سي محجوب"
+
+msgid "Sidi Demed"
+msgstr "سيدي دامد"
+
+msgid "Sidi Naamane"
+msgstr "سيدي نعمان"
+
+msgid "Sidi Rabie"
+msgstr "سيدي الربيع"
+
+msgid "Sidi Zahar"
+msgstr "سيدي زهار"
+
+msgid "Sidi Ziane"
+msgstr "سيدي زيان"
+
+msgid "Souagui"
+msgstr "السواقي"
+
+msgid "Tablat"
+msgstr "تابلاط"
+
+msgid "Tafraout"
+msgstr "تافراوت"
+
+msgid "Tamesguida"
+msgstr "تامسقيدة"
+
+msgid "Tizi Mahdi"
+msgstr "تيزي مهدي"
+
+msgid "Tletat Ed Douair"
+msgstr "ثلاثة الدواير"
+
+msgid "Zoubiria"
+msgstr "الزبيرية"
+
+# Cities of Mostaganem Province (27)
+msgid "Achaacha"
+msgstr "عشعاشة"
+
+msgid "Ain-Boudinar"
+msgstr "عين بودينار"
+
+msgid "Ain-Nouissy"
+msgstr "عين نويسي"
+
+msgid "Ain-Sidi Cherif"
+msgstr "عين سيدي شريف"
+
+msgid "Ain-Tedles"
+msgstr "عين تادلس"
+
+msgid "Benabdelmalek Ramdane"
+msgstr "بن عبد المالك رمضان"
+
+msgid "Bouguirat"
+msgstr "بوقيراط"
+
+msgid "Fornaka"
+msgstr "فرناقة"
+
+msgid "Hadjadj"
+msgstr "حجاج"
+
+msgid "Hassi Mameche"
+msgstr "حاسي ماماش"
+
+msgid "Hassiane"
+msgstr "الحسيان"
+
+msgid "Khadra"
+msgstr "خضرة"
+
+msgid "Kheir-Eddine"
+msgstr "خير الدين"
+
+msgid "Mansourah"
+msgstr "منصورة"
+
+msgid "Mazagran"
+msgstr "مزغران"
+
+msgid "Mesra"
+msgstr "ماسرة"
+
+msgid "Nekmaria"
+msgstr "نكمارية"
+
+msgid "Oued El Kheir"
+msgstr "واد الخير"
+
+msgid "Ouled Boughalem"
+msgstr "أولاد بوغالم"
+
+msgid "Ouled-Maalah"
+msgstr "أولاد مع الله"
+
+msgid "Safsaf"
+msgstr "صفصاف"
+
+msgid "Sayada"
+msgstr "صيادة"
+
+msgid "Sidi Ali"
+msgstr "سيدي علي"
+
+msgid "Sidi Belaattar"
+msgstr "سيدي بلعطار"
+
+msgid "Sidi-Lakhdar"
+msgstr "سيدي لخضر"
+
+msgid "Sirat"
+msgstr "سيرات"
+
+msgid "Souaflia"
+msgstr "السوافلية"
+
+msgid "Sour"
+msgstr "سور"
+
+msgid "Stidia"
+msgstr "ستيدية"
+
+msgid "Tazgait"
+msgstr "تزقايت"
+
+msgid "Touahria"
+msgstr "الطواهرية"
+
+# Cities of M'sila Province (28)
+msgid "Ain El Hadjel"
+msgstr "عين الحجل"
+
+msgid "Ain El Melh"
+msgstr "عين الملح"
+
+msgid "Ain Khadra"
+msgstr "عين الخضراء"
+
+msgid "Ain Rich"
+msgstr "عين الريش"
+
+msgid "Belaiba"
+msgstr "بلعايبة"
+
+msgid "Ben Srour"
+msgstr "بن سرور"
+
+msgid "Beni Ilmane"
+msgstr "بني يلمان"
+
+msgid "Benzouh"
+msgstr "بن زوه"
+
+msgid "Berhoum"
+msgstr "برهوم"
+
+msgid "Bir Foda"
+msgstr "بئر فضة"
+
+msgid "Bou Saada"
+msgstr "بوسعادة"
+
+msgid "Bouti Sayeh"
+msgstr "بوطي السايح"
+
+msgid "Chellal"
+msgstr "شلال"
+
+msgid "Dehahna"
+msgstr "دهاهنة"
+
+msgid "Djebel Messaad"
+msgstr "جبل مساعد"
+
+msgid "El Hamel"
+msgstr "الهامل"
+
+msgid "El Houamed"
+msgstr "الحوامد"
+
+msgid "Hammam Dalaa"
+msgstr "حمام الضلعة"
+
+msgid "Khettouti Sed-El-Jir"
+msgstr "خطوطي سد الجير"
+
+msgid "Khoubana"
+msgstr "خبانة"
+
+msgid "Mcif"
+msgstr "مسيف"
+
+msgid "Mtarfa"
+msgstr "المطارفة"
+
+msgid "Maadid"
+msgstr "المعاضيد"
+
+msgid "Maarif"
+msgstr "المعاريف"
+
+msgid "Magra"
+msgstr "مقرة"
+
+msgid "Medjedel"
+msgstr "مجدل"
+
+msgid "Menaa"
+msgstr "مناعة"
+
+msgid "Mohamed Boudiaf"
+msgstr "محمد بوضياف"
+
+msgid "Ouanougha"
+msgstr "ونوغة"
+
+msgid "Ouled Addi Guebala"
+msgstr "أولاد عدي القبالة"
+
+msgid "Ouled Derradj"
+msgstr "أولاد دراج"
+
+msgid "Ouled Madhi"
+msgstr "أولاد ماضي"
+
+msgid "Ouled Mansour"
+msgstr "أولاد منصور"
+
+msgid "Ouled Sidi Brahim"
+msgstr "أولاد سيدي ابراهيم"
+
+msgid "Ouled Slimane"
+msgstr "أولاد سليمان"
+
+msgid "Oulteme"
+msgstr "ولتام"
+
+msgid "Sidi Aissa"
+msgstr "سيدي عيسى"
+
+msgid "Sidi Hadjeres"
+msgstr "سيدي هجرس"
+
+msgid "Slim"
+msgstr "سليم"
+
+msgid "Souamaa"
+msgstr "الصوامع"
+
+msgid "Tamsa"
+msgstr "تامسة"
+
+msgid "Tarmount"
+msgstr "تارمونت"
+
+msgid "Zarzour"
+msgstr "زرزور"
+
+# Cities of Mascara Province (29)
+msgid "Ain Fares"
+msgstr "عين فارس"
+
+msgid "Ain Fekan"
+msgstr "عين فكان"
+
+msgid "Ain Ferah"
+msgstr "عين فراح"
+
+msgid "Ain Frass"
+msgstr "عين فراس"
+
+msgid "Alaimia"
+msgstr "العلايمية"
+
+msgid "Aouf"
+msgstr "عوف"
+
+msgid "Benian"
+msgstr "بنيان"
+
+msgid "Bou Henni"
+msgstr "بوهني"
+
+msgid "Bouhanifia"
+msgstr "بوحنيفية"
+
+msgid "El Bordj"
+msgstr "البرج"
+
+msgid "El Gaada"
+msgstr "القعدة"
+
+msgid "El Ghomri"
+msgstr "الغمري"
+
+msgid "El Gueitena"
+msgstr "القطنة"
+
+msgid "El Hachem"
+msgstr "الحشم"
+
+msgid "El Keurt"
+msgstr "القرط"
+
+msgid "El Mamounia"
+msgstr "المأمونية"
+
+msgid "El Menaouer"
+msgstr "المناور"
+
+msgid "Ferraguig"
+msgstr "فراقيق"
+
+msgid "Froha"
+msgstr "فروحة"
+
+msgid "Gharrous"
+msgstr "غروس"
+
+msgid "Ghriss"
+msgstr "غريس"
+
+msgid "Guerdjoum"
+msgstr "قرجوم"
+
+msgid "Hacine"
+msgstr "حسين"
+
+msgid "Khalouia"
+msgstr "خلوية"
+
+msgid "Makhda"
+msgstr "ماقضة"
+
+msgid "Maoussa"
+msgstr "ماوسة"
+
+msgid "Matemore"
+msgstr "المطمور"
+
+msgid "Mocta-Douz"
+msgstr "مقطع الدوز"
+
+msgid "Mohammadia"
+msgstr "المحمدية"
+
+msgid "Nesmot"
+msgstr "نسموط"
+
+msgid "Oggaz"
+msgstr "عقاز"
+
+msgid "Oued El Abtal"
+msgstr "وادي الأبطال"
+
+msgid "Oued Taria"
+msgstr "وادي التاغية"
+
+msgid "Ras El Ain Amirouche"
+msgstr "رأس العين عميروش"
+
+msgid "Sedjerara"
+msgstr "سجرارة"
+
+msgid "Sehailia"
+msgstr "السهايلية"
+
+msgid "Sidi Abdeldjebar"
+msgstr "سيدي عبد الجبار"
+
+msgid "Sidi Abdelmoumene"
+msgstr "سيدي عبد المؤمن"
+
+msgid "Sidi Boussaid"
+msgstr "سيدي بوسعيد"
+
+msgid "Sidi Kada"
+msgstr "سيدي قادة"
+
+msgid "Sig"
+msgstr "سيق"
+
+msgid "Tighennif"
+msgstr "تيغنيف"
+
+msgid "Tizi"
+msgstr "تيزي"
+
+msgid "Zahana"
+msgstr "زهانة"
+
+msgid "Zelamta"
+msgstr "زلامطة"
+
+# Cities of Ouargla province
+msgid "Ain Beida"
+msgstr "عين البيضاء"
+
+msgid "El Borma"
+msgstr "البرمة"
+
+msgid "Hassi Ben Abdellah"
+msgstr "حاسي بن عبد الله"
+
+msgid "Hassi Messaoud"
+msgstr "حاسي مسعود"
+
+msgid "Ngoussa"
+msgstr "انقوسة"
+
+msgid "Rouissat"
+msgstr "الرويسات"
+
+msgid "Sidi Khouiled"
+msgstr "سيدي خويلد"
+
+# Cities of Oran province
+msgid "Ain Biya"
+msgstr "عين البية"
+
+msgid "Ain Turk"
+msgstr "عين الترك"
+
+msgid "Arzew"
+msgstr "أرزيو"
+
+msgid "Ben Freha"
+msgstr "بن فريحة"
+
+msgid "Bethioua"
+msgstr "بطيوة"
+
+msgid "Bir El Djir"
+msgstr "بئر الجير"
+
+msgid "Boufatis"
+msgstr "بوفاتيس"
+
+msgid "Bousfer"
+msgstr "بوسفر"
+
+msgid "Boutlelis"
+msgstr "بوتليليس"
+
+msgid "El Ancor"
+msgstr "العنصر"
+
+msgid "El Braya"
+msgstr "البراية"
+
+msgid "El Kerma"
+msgstr "الكرمة"
+
+msgid "Es Senia"
+msgstr "السانية"
+
+msgid "Gdyel"
+msgstr "قديل"
+
+msgid "Hassi Ben Okba"
+msgstr "حاسي بن عقبة"
+
+msgid "Hassi Bounif"
+msgstr "حاسي بونيف"
+
+msgid "Hassi Mefsoukh"
+msgstr "حاسي مفسوخ"
+
+msgid "Marsat El Hadjadj"
+msgstr "مرسى الحجاج"
+
+msgid "Mers El Kebir"
+msgstr "المرسى الكبير"
+
+msgid "Messerghin"
+msgstr "مسرغين"
+
+msgid "Oued Tlelat"
+msgstr "وادي تليلات"
+
+msgid "Sidi Ben Yebka"
+msgstr "سيدي بن يبقى"
+
+msgid "Sidi Chami"
+msgstr "سيدي الشحمي"
+
+msgid "Tafraoui"
+msgstr "طفراوي"
+
+# Cities of El Bayadh province
+msgid "Ain El Orak"
+msgstr "عين العراك"
+
+msgid "Arbaouat"
+msgstr "الأربوات"
+
+msgid "Boualem"
+msgstr "بوعلام"
+
+msgid "Bougtoub"
+msgstr "بوقطب"
+
+msgid "Boussemghoun"
+msgstr "بوسمغون"
+
+msgid "Brezina"
+msgstr "بريزينة"
+
+msgid "Cheguig"
+msgstr "الشقيق"
+
+msgid "Chellala"
+msgstr "شلالة"
+
+msgid "El Bnoud"
+msgstr "البنود"
+
+msgid "El Kheiter"
+msgstr "الخيثر"
+
+msgid "El Mehara"
+msgstr "المحرة"
+
+msgid "Ghassoul"
+msgstr "الغاسول"
+
+msgid "Kef El Ahmar"
+msgstr "الكاف الأحمر"
+
+msgid "Krakda"
+msgstr "كراكدة"
+
+msgid "Labiodh Sidi Cheikh"
+msgstr "الأبيض سيدي الشيخ"
+
+msgid "Rogassa"
+msgstr "رقاصة"
+
+msgid "Sidi Ameur"
+msgstr "سيدي عامر"
+
+msgid "Sidi Tiffour"
+msgstr "سيدي طيفور"
+
+msgid "Stitten"
+msgstr "ستيتن"
+
+msgid "Tousmouline"
+msgstr "توسمولين"
+
+# Cities of Illizi
+msgid "Bordj Omar Driss"
+msgstr "برج عمر إدريس"
+
+msgid "Debdeb"
+msgstr "دبداب"
+
+msgid "In Amenas"
+msgstr "إن أمناس"
+
+# Cities of Bordj Bou Arréridj province
+msgid "Ain Taghrout"
+msgstr "عين تاغروت"
+
+msgid "Ain Tesra"
+msgstr "عين تسرة"
+
+msgid "Belimour"
+msgstr "بليمور"
+
+msgid "Ben Daoud"
+msgstr "بن داود"
+
+msgid "Bir Kasdali"
+msgstr "بئر قاصد علي"
+
+msgid "Bordj Ghedir"
+msgstr "برج الغدير"
+
+msgid "Bordj Zemmoura"
+msgstr "برج زمورة"
+
+msgid "Colla"
+msgstr "القلة"
+
+msgid "Djaafra"
+msgstr "جعافرة"
+
+msgid "El Achir"
+msgstr "العاشر"
+
+msgid "El Annasseur"
+msgstr "العناصر"
+
+msgid "El Euch"
+msgstr "العش"
+
+msgid "El Mhir"
+msgstr "المهير"
+
+msgid "El Main"
+msgstr "الماين"
+
+msgid "Elhammadia"
+msgstr "الحمادية"
+
+msgid "Ghailasa"
+msgstr "غيلاسة"
+
+msgid "Haraza"
+msgstr "حرازة"
+
+msgid "Hasnaoua"
+msgstr "حسناوة"
+
+msgid "Khelil"
+msgstr "خليل"
+
+msgid "Ksour"
+msgstr "القصور"
+
+msgid "Mansoura"
+msgstr "المنصورة"
+
+msgid "Medjana"
+msgstr "مجانة"
+
+msgid "Ouled Brahem"
+msgstr "أولاد براهم"
+
+msgid "Ouled Dahmane"
+msgstr "أولاد دحمان"
+
+msgid "Ouled Sidi-Brahim"
+msgstr "أولاد سيدي ابراهيم"
+
+msgid "Rabta"
+msgstr "الرابطة"
+
+msgid "Ras El Oued"
+msgstr "رأس الوادي"
+
+msgid "Sidi-Embarek"
+msgstr "سيدي امبارك"
+
+msgid "Taglait"
+msgstr "تقلعيت"
+
+msgid "Tassamert"
+msgstr "تسامرت"
+
+msgid "Tefreg"
+msgstr "تفرق"
+
+msgid "Teniet En Nasr"
+msgstr "ثنية النصر"
+
+msgid "Tixter"
+msgstr "تيكستار"
+
+# Cities of Boumerdès province
+msgid "Afir"
+msgstr "أفير"
+
+msgid "Ammal"
+msgstr "عمال"
+
+msgid "Baghlia"
+msgstr "بغلية"
+
+msgid "Ben Choud"
+msgstr "بن شود"
+
+msgid "Beni Amrane"
+msgstr "بني عمران"
+
+msgid "Bordj Menaiel"
+msgstr "برج منايل"
+
+msgid "Boudouaou"
+msgstr "بودواو"
+
+msgid "Boudouaou El Bahri"
+msgstr "بودواو البحري"
+
+msgid "Bouzegza Keddara"
+msgstr "بوزقزة قدارة"
+
+msgid "Chabet El Ameur"
+msgstr "شعبة العامر"
+
+msgid "Corso"
+msgstr "قورصو"
+
+msgid "Dellys"
+msgstr "دلس"
+
+msgid "Djinet"
+msgstr "جنات"
+
+msgid "El Kharrouba"
+msgstr "الخروبة"
+
+msgid "Hammedi"
+msgstr "حمادي"
+
+msgid "Isser"
+msgstr "يسر"
+
+msgid "Khemis El Khechna"
+msgstr "خميس الخشنة"
+
+msgid "Larbatache"
+msgstr "الأربعطاش"
+
+msgid "Leghata"
+msgstr "لقاطة"
+
+msgid "Naciria"
+msgstr "الناصرية"
+
+msgid "Ouled Aissa"
+msgstr "أولاد عيسى"
+
+msgid "Ouled Hedadj"
+msgstr "أولاد هداج"
+
+msgid "Ouled Moussa"
+msgstr "أولاد موسى"
+
+msgid "Si Mustapha"
+msgstr "سي مصطفى"
+
+msgid "Sidi Daoud"
+msgstr "سيدي داود"
+
+msgid "Taourga"
+msgstr "تاورقة"
+
+msgid "Thenia"
+msgstr "الثنية"
+
+msgid "Tidjelabine"
+msgstr "تيجلابين"
+
+msgid "Timezrit"
+msgstr "تيمزريت"
+
+msgid "Zemmouri"
+msgstr "زموري"
+
+# Cities of El Taref
+msgid "Ain El Assel"
+msgstr "عين العسل"
+
+msgid "Ain Kerma"
+msgstr "عين الكرمة"
+
+msgid "Asfour"
+msgstr "عصفور"
+
+msgid "Ben M Hidi"
+msgstr "بن مهيدي"
+
+msgid "Berrihane"
+msgstr "بريحان"
+
+msgid "Bougous"
+msgstr "بوقوس"
+
+msgid "Bouhadjar"
+msgstr "بوحجار"
+
+msgid "Bouteldja"
+msgstr "بوثلجة"
+
+msgid "Chebaita Mokhtar"
+msgstr "شبيطة مختار"
+
+msgid "Chefia"
+msgstr "الشافية"
+
+msgid "Chihani"
+msgstr "شيحاني"
+
+msgid "Drean"
+msgstr "الذرعان"
+
+msgid "Echatt"
+msgstr "الشط"
+
+msgid "El Aioun"
+msgstr "العيون"
+
+msgid "El Kala"
+msgstr "القالة"
+
+msgid "Hammam Beni Salah"
+msgstr "حمام بني صالح"
+
+msgid "Lac Des Oiseaux"
+msgstr "بحيرة الطيور"
+
+msgid "Oued Zitoun"
+msgstr "وادي الزيتون"
+
+msgid "Raml Souk"
+msgstr "رمل السوق"
+
+msgid "Souarekh"
+msgstr "السوارخ"
+
+msgid "Zerizer"
+msgstr "زريزر"
+
+# Cities of Tindouf
+msgid "Oum El Assel"
+msgstr "أم العسل"
+
+# Cities of Tissemsilt province
+msgid "Ammari"
+msgstr "عماري"
+
+msgid "Beni Chaib"
+msgstr "بني شعيب"
+
+msgid "Beni Lahcene"
+msgstr "بني لحسن"
+
+msgid "Bordj Bounaama"
+msgstr "برج بونعامة"
+
+msgid "Bordj El Emir Abdelkader"
+msgstr "برج الأمير عبد القادر"
+
+msgid "Boucaid"
+msgstr "بوقائد"
+
+msgid "Khemisti"
+msgstr "خميستي"
+
+msgid "Lardjem"
+msgstr "لرجام"
+
+msgid "Layoune"
+msgstr "العيون"
+
+msgid "Lazharia"
+msgstr "الأزهرية"
+
+msgid "Maacem"
+msgstr "المعاصم"
+
+msgid "Melaab"
+msgstr "الملعب"
+
+msgid "Ouled Bessam"
+msgstr "أولاد بسام"
+
+msgid "Sidi Abed"
+msgstr "سيدي عابد"
+
+msgid "Sidi Boutouchent"
+msgstr "سيدي بوتوشنت"
+
+msgid "Sidi Lantri"
+msgstr "سيدي العنتري"
+
+msgid "Sidi Slimane"
+msgstr "سيدي سليمان"
+
+msgid "Tamalaht"
+msgstr "تملاحت"
+
+msgid "Theniet El Had"
+msgstr "ثنية الأحد"
+
+msgid "Youssoufia"
+msgstr "اليوسفية"
+
+# Cities of El Oued
+msgid "Bayadha"
+msgstr "البياضة"
+
+msgid "Ben Guecha"
+msgstr "بن قشة"
+
+msgid "Debila"
+msgstr "الدبيلة"
+
+msgid "Douar El Ma"
+msgstr "دوار الماء"
+
+msgid "Guemar"
+msgstr "قمار"
+
+msgid "Hamraia"
+msgstr "الحمراية"
+
+msgid "Hassani Abdelkrim"
+msgstr "حساني عبد الكريم"
+
+msgid "Hassi Khalifa"
+msgstr "حاسي خليفة"
+
+msgid "Kouinine"
+msgstr "كوينين"
+
+msgid "Magrane"
+msgstr "المقرن"
+
+msgid "Mih Ouansa"
+msgstr "اميه ونسة"
+
+msgid "Nakhla"
+msgstr "النخلة"
+
+msgid "Oued El Alenda"
+msgstr "وادي العلندة"
+
+msgid "Ourmes"
+msgstr "ورماس"
+
+msgid "Reguiba"
+msgstr "الرقيبة"
+
+msgid "Robbah"
+msgstr "الرباح"
+
+msgid "Sidi Aoun"
+msgstr "سيدي عون"
+
+msgid "Still"
+msgstr "سطيل"
+
+msgid "Taleb Larbi"
+msgstr "الطالب العربي"
+
+msgid "Trifaoui"
+msgstr "الطريفاوي"
+
+# Cities of Khenchela province
+msgid "Ain Touila"
+msgstr "عين الطويلة"
+
+msgid "Babar"
+msgstr "بابار"
+
+msgid "Baghai"
+msgstr "بغاي"
+
+msgid "Bouhmama"
+msgstr "بوحمامة"
+
+msgid "Chechar"
+msgstr "ششار"
+
+msgid "Chelia"
+msgstr "شلية"
+
+msgid "Djellal"
+msgstr "جلال"
+
+msgid "El Hamma"
+msgstr "الحامة"
+
+msgid "El Mahmal"
+msgstr "المحمل"
+
+msgid "El Oueldja"
+msgstr "الولجة"
+
+msgid "Ensigha"
+msgstr "انسيغة"
+
+msgid "Kais"
+msgstr "قايس"
+
+msgid "Khirane"
+msgstr "خيران"
+
+msgid "Msara"
+msgstr "مصارة"
+
+msgid "Mtoussa"
+msgstr "متوسة"
+
+msgid "Ouled Rechache"
+msgstr "أولاد رشاش"
+
+msgid "Remila"
+msgstr "الرميلة"
+
+msgid "Tamza"
+msgstr "طامزة"
+
+msgid "Yabous"
+msgstr "يابوس"
+
+# Cities of Souk Ahras province
+msgid "Ain Zana"
+msgstr "عين الزانة"
+
+msgid "Bir Bouhouche"
+msgstr "بئر بوحوش"
+
+msgid "Drea"
+msgstr "الدريعة"
+
+msgid "Hanancha"
+msgstr "الحنانشة"
+
+msgid "Khedara"
+msgstr "الخضارة"
+
+msgid "Khemissa"
+msgstr "خميسة"
+
+msgid "Machroha"
+msgstr "المشروحة"
+
+msgid "Mdaourouche"
+msgstr "مداوروش"
+
+msgid "Merahna"
+msgstr "المراهنة"
+
+msgid "Oued Keberit"
+msgstr "وادي الكبريت"
+
+msgid "Ouillen"
+msgstr "ويلان"
+
+msgid "Ouled Driss"
+msgstr "أولاد إدريس"
+
+msgid "Ouled Moumen"
+msgstr "أولاد مومن"
+
+msgid "Ragouba"
+msgstr "الراقوبة"
+
+msgid "Safel El Ouiden"
+msgstr "سافل الويدان"
+
+msgid "Sedrata"
+msgstr "سدراتة"
+
+msgid "Sidi Fredj"
+msgstr "سيدي فرج"
+
+msgid "Taoura"
+msgstr "تاورة"
+
+msgid "Terraguelt"
+msgstr "ترقالت"
+
+msgid "Tiffech"
+msgstr "تيفاش"
+
+msgid "Zaarouria"
+msgstr "الزعرورية"
+
+msgid "Zouabi"
+msgstr "الزوابي"
+
+# Cities of Tipaza province
+msgid "Aghbal"
+msgstr "أغبال"
+
+msgid "Ahmer El Ain"
+msgstr "أحمر العين"
+
+msgid "Ain Tagourait"
+msgstr "عين تقورايت"
+
+msgid "Attatba"
+msgstr "الحطاطبة"
+
+msgid "Beni Mileuk"
+msgstr "بني ميلك"
+
+msgid "Bouharoun"
+msgstr "بوهارون"
+
+msgid "Bourkika"
+msgstr "بورقيقة"
+
+msgid "Bou Ismail"
+msgstr "بواسماعيل"
+
+msgid "Chaiba"
+msgstr "الشعيبة"
+
+msgid "Cherchell"
+msgstr "شرشال"
+
+msgid "Damous"
+msgstr "الداموس"
+
+msgid "Douaouda"
+msgstr "دواودة"
+
+msgid "Fouka"
+msgstr "فوكة"
+
+msgid "Gouraya"
+msgstr "قوراية"
+
+msgid "Hadjeret Ennous"
+msgstr "حجرة النص"
+
+msgid "Hadjout"
+msgstr "حجوط"
+
+msgid "Kolea"
+msgstr "القليعة"
+
+msgid "Larhat"
+msgstr "الأرهاط"
+
+msgid "Menaceur"
+msgstr "مناصر"
+
+msgid "Messelmoun"
+msgstr "مسلمون"
+
+msgid "Nador"
+msgstr "الناظور"
+
+msgid "Sidi Amar"
+msgstr "سيدي عمار"
+
+msgid "Sidi Ghiles"
+msgstr "سيدي غيلاس"
+
+msgid "Sidi Rached"
+msgstr "سيدي راشد"
+
+msgid "Sidi Semiane"
+msgstr "سيدي سميان"
+
+msgid "Sidi-Moussa"
+msgstr "سيدي موسى"
+
+# Cities of Mila province
+msgid "Ain Beida Harriche"
+msgstr "عين البيضاء حريش"
+
+msgid "Ain Mellouk"
+msgstr "عين الملوك"
+
+msgid "Ain Tine"
+msgstr "عين التين"
+
+msgid "Amira Arres"
+msgstr "اعميرة اراس"
+
+msgid "Benyahia Abderrahmane"
+msgstr "بن يحي عبد الرحمن"
+
+msgid "Bouhatem"
+msgstr "بوحاتم"
+
+msgid "Chelghoum Laid"
+msgstr "شلغوم العيد"
+
+msgid "Chigara"
+msgstr "الشيقارة"
+
+msgid "Derradji Bousselah"
+msgstr "دراجي بوصلاح"
+
+msgid "El Mechira"
+msgstr "المشيرة"
+
+msgid "Elayadi Barbes"
+msgstr "العياضي برباس"
+
+msgid "Ferdjioua"
+msgstr "فرجيوة"
+
+msgid "Grarem Gouga"
+msgstr "القرارم قوقة"
+
+msgid "Hamala"
+msgstr "حمالة"
+
+msgid "Minar Zarza"
+msgstr "مينار زارزة"
+
+msgid "Oued Athmania"
+msgstr "وادي العثمانية"
+
+msgid "Oued Endja"
+msgstr "وادي النجاء"
+
+msgid "Oued Seguen"
+msgstr "وادي سقان"
+
+msgid "Ouled Khalouf"
+msgstr "أولاد خلوف"
+
+msgid "Rouached"
+msgstr "الرواشد"
+
+msgid "Sidi Khelifa"
+msgstr "سيدي خليفة"
+
+msgid "Sidi Merouane"
+msgstr "سيدي مروان"
+
+msgid "Tadjenanet"
+msgstr "تاجنانت"
+
+msgid "Tassadane Haddada"
+msgstr "تسدان حدادة"
+
+msgid "Teleghma"
+msgstr "التلاغمة"
+
+msgid "Terrai Bainen"
+msgstr "ترعي باينان"
+
+msgid "Tessala Lemtai"
+msgstr "تسالة لمطاعي"
+
+msgid "Tiberguent"
+msgstr "تيبرقنت"
+
+msgid "Yahia Beni Guecha"
+msgstr "يحي بني قشة"
+
+msgid "Zeghaia"
+msgstr "زغاية"
+
+# Cities of Ain Defla province
+msgid "Ain Bouyahia"
+msgstr "عين بويحيى"
+
+msgid "Ain Lechiekh"
+msgstr "عين الشيخ"
+
+msgid "Ain Soltane"
+msgstr "عين سلطان"
+
+msgid "Ain Torki"
+msgstr "عين التركي"
+
+msgid "Arib"
+msgstr "عريب"
+
+msgid "Bathia"
+msgstr "بطحية"
+
+msgid "Belaas"
+msgstr "بلعاص"
+
+msgid "Ben Allal"
+msgstr "بن علال"
+
+msgid "Bir Ould Khelifa"
+msgstr "بئر ولد خليفة"
+
+msgid "Birbouche"
+msgstr "بربوش"
+
+msgid "Bordj Emir Khaled"
+msgstr "برج الأمير خالد"
+
+msgid "Boumedfaa"
+msgstr "بومدفع"
+
+msgid "Bourached"
+msgstr "بوراشد"
+
+msgid "Djelida"
+msgstr "جليدة"
+
+msgid "Djemaa Ouled Cheikh"
+msgstr "جمعة أولاد الشيخ"
+
+msgid "Djendel"
+msgstr "جندل"
+
+msgid "El Abadia"
+msgstr "العبادية"
+
+msgid "El Amra"
+msgstr "العامرة"
+
+msgid "El Attaf"
+msgstr "العطاف"
+
+msgid "El Hassania"
+msgstr "الحسنية"
+
+msgid "El Maine"
+msgstr "الماين"
+
+msgid "Hammam Righa"
+msgstr "حمام ريغة"
+
+msgid "Hoceinia"
+msgstr "الحسينية"
+
+msgid "Khemis Miliana"
+msgstr "خميس مليانة"
+
+msgid "Mekhatria"
+msgstr "المخاطرية"
+
+msgid "Miliana"
+msgstr "مليانة"
+
+msgid "Oued Chorfa"
+msgstr "وادي الشرفاء"
+
+msgid "Oued Djemaa"
+msgstr "وادي الجمعة"
+
+msgid "Rouina"
+msgstr "الروينة"
+
+msgid "Sidi Lakhdar"
+msgstr "سيدي لخضر"
+
+msgid "Tacheta Zegagha"
+msgstr "تاشتة زقاغة"
+
+msgid "Tarik Ibn Ziad"
+msgstr "طارق بن زياد"
+
+msgid "Tiberkanine"
+msgstr "تبركانين"
+
+msgid "Zeddine"
+msgstr "زدين"
+
+# Cities of Naâma province
+msgid "Ain Ben Khelil"
+msgstr "عين بن خليل"
+
+msgid "Ain Sefra"
+msgstr "عين الصفراء"
+
+msgid "Asla"
+msgstr "عسلة"
+
+msgid "Djeniene Bourezg"
+msgstr "جنين بورزق"
+
+msgid "El Biodh"
+msgstr "البيوض"
+
+msgid "Kasdir"
+msgstr "القصدير"
+
+msgid "Makman Ben Amer"
+msgstr "مكمن بن عمر"
+
+msgid "Mecheria"
+msgstr "المشرية"
+
+msgid "Moghrar"
+msgstr "مغرار"
+
+msgid "Sfissifa"
+msgstr "سفيسيفة"
+
+msgid "Tiout"
+msgstr "تيوت"
+
+# Cities of ain Témouchent
+msgid "Aghlal"
+msgstr "أغلال"
+
+msgid "Ain El Arbaa"
+msgstr "عين الأربعاء"
+
+msgid "Ain Kihal"
+msgstr "عين الكيحل"
+
+msgid "Ain Tolba"
+msgstr "عين الطلبة"
+
+msgid "Aoubellil"
+msgstr "عقب الليل"
+
+msgid "Beni Saf"
+msgstr "بني صاف"
+
+msgid "Bouzedjar"
+msgstr "بوزجار"
+
+msgid "Chaabat El Ham"
+msgstr "شعبة اللحم"
+
+msgid "Chentouf"
+msgstr "شنتوف"
+
+msgid "El Amria"
+msgstr "العامرية"
+
+msgid "El Emir Abdelkader"
+msgstr "الأمير عبد القادر"
+
+msgid "El Malah"
+msgstr "المالح"
+
+msgid "El Messaid"
+msgstr "المساعيد"
+
+msgid "Hammam Bouhadjar"
+msgstr "حمام بوحجر"
+
+msgid "Hassasna"
+msgstr "الحصاحصة"
+
+msgid "Hassi El Ghella"
+msgstr "حاسي الغلة"
+
+msgid "Oued Berkeche"
+msgstr "وادي برقش"
+
+msgid "Oued Sabah"
+msgstr "وادي الصباح"
+
+msgid "Ouled Boudjemaa"
+msgstr "أولاد بوجمعة"
+
+msgid "Ouled Kihal"
+msgstr "أولاد الكيحل"
+
+msgid "Oulhaca El Gheraba"
+msgstr "ولهاصة الغرابة"
+
+msgid "Sidi Ben Adda"
+msgstr "سيدي بن عدة"
+
+msgid "Sidi Boumediene"
+msgstr "سيدي بومدين"
+
+msgid "Sidi Ouriache"
+msgstr "سيدي ورياش"
+
+msgid "Sidi Safi"
+msgstr "سيدي صافي"
+
+msgid "Tamzoura"
+msgstr "تامزوغة"
+
+msgid "Terga"
+msgstr "تارقة"
+
+# Cities of Ghardaïa
+msgid "Berriane"
+msgstr "بريان"
+
+msgid "Bounoura"
+msgstr "بونورة"
+
+msgid "Dhayet Bendhahoua"
+msgstr "ضاية بن ضحوة"
+
+msgid "El Atteuf"
+msgstr "العطف"
+
+msgid "El Guerrara"
+msgstr "القرارة"
+
+msgid "Hassi Fhel"
+msgstr "حاسي الفحل"
+
+msgid "Metlili"
+msgstr "متليلي"
+
+msgid "Sebseb"
+msgstr "سبسب"
+
+msgid "Zelfana"
+msgstr "زلفانة"
+
+# Cities of Relizane
+msgid "Ain Rahma"
+msgstr "عين الرحمة"
+
+msgid "Ain Tarek"
+msgstr "عين طارق"
+
+msgid "Ammi Moussa"
+msgstr "عمي موسى"
+
+msgid "Belacel"
+msgstr "بلعسل"
+
+msgid "Bendaoud"
+msgstr "بن داود"
+
+msgid "Beni Dergoun"
+msgstr "بني درقون"
+
+msgid "Beni Zentis"
+msgstr "بني زنطيس"
+
+msgid "Dar Ben Abdellah"
+msgstr "دار بن عبد الله"
+
+msgid "Djidiouia"
+msgstr "جديوية"
+
+msgid "El Guettar"
+msgstr "القطار"
+
+msgid "El Hamadna"
+msgstr "الحمادنة"
+
+msgid "El Hassi"
+msgstr "الحاسي"
+
+msgid "El Matmar"
+msgstr "المطمر"
+
+msgid "El Ouldja"
+msgstr "الولجة"
+
+msgid "Had Echkalla"
+msgstr "حد الشكالة"
+
+msgid "Kalaa"
+msgstr "القلعة"
+
+msgid "Lahlef"
+msgstr "لحلاف"
+
+msgid "Mazouna"
+msgstr "مازونة"
+
+msgid "Mediouna"
+msgstr "مديونة"
+
+msgid "Mendes"
+msgstr "منداس"
+
+msgid "Merdja Sidi Abed"
+msgstr "مرجة سيدي عابد"
+
+msgid "Ouarizane"
+msgstr "واريزان"
+
+msgid "Oued El Djemaa"
+msgstr "وادي الجمعة"
+
+msgid "Oued Essalem"
+msgstr "وادي السلام"
+
+msgid "Oued Rhiou"
+msgstr "وادي رهيو"
+
+msgid "Ramka"
+msgstr "الرمكة"
+
+msgid "Sidi Khettab"
+msgstr "سيدي خطاب"
+
+msgid "Sidi Lazreg"
+msgstr "سيدي لزرق"
+
+msgid "Sidi Mhamed Ben Ali"
+msgstr "سيدي امحمد بن علي"
+
+msgid "Sidi Mhamed Benaouda"
+msgstr "سيدي امحمد بن عودة"
+
+msgid "Sidi Saada"
+msgstr "سيدي سعادة"
+
+msgid "Souk El Had"
+msgstr "سوق الحد"
+
+msgid "Yellel"
+msgstr "يلل"
+
+msgid "Zemmora"
+msgstr "زمورة"
+
+# Cities of Timimoun province
+msgid "Aougrout"
+msgstr "أوقروت"
+
+msgid "Charouine"
+msgstr "شروين"
+
+msgid "Ksar Kaddour"
+msgstr "قصر قدور"
+
+msgid "Metarfa"
+msgstr "المطارفة"
+
+msgid "Ouled Said"
+msgstr "أولاد سعيد"
+
+msgid "Talmine"
+msgstr "طالمين"
+
+msgid "Tinerkouk"
+msgstr "تنركوك"
+
+# Cities of Bordj Badji Mokhtar
+msgid "Timiaouine"
+msgstr "تيمياوين"
+
+# Cities of ouled Djellal
+msgid "Besbes"
+msgstr "بسباس"
+
+msgid "Doucen"
+msgstr "الدوسن"
+
+msgid "Ech Chaiba"
+msgstr "الشعيبة"
+
+msgid "Sidi Khaled"
+msgstr "سيدي خالد"
+
+# Cities of Béni Abbès
+msgid "El Ouata"
+msgstr "الواتة"
+
+msgid "Igli"
+msgstr "إقلي"
+
+msgid "Kerzaz"
+msgstr "كرزاز"
+
+msgid "Ksabi"
+msgstr "قصابي"
+
+msgid "Ouled Khodeir"
+msgstr "أولاد خضير"
+
+msgid "Tamtert"
+msgstr "تامترت"
+
+# Cities of In Salah province
+msgid "Foggaret Ezzaouia"
+msgstr "فقارة الزوى"
+
+msgid "Inghar"
+msgstr "إينغر"
+
+# Cities of in Guezzam province
+msgid "Tin Zaouatine"
+msgstr "تين زواتين"
+
+# Cities of Touggourt
+msgid "Blidet Amor"
+msgstr "بليدة عامر"
+
+msgid "El Allia"
+msgstr "العالية"
+
+msgid "El Hadjira"
+msgstr "الحجيرة"
+
+msgid "Megarine"
+msgstr "المقارين"
+
+msgid "Mnaguer"
+msgstr "المنقر"
+
+msgid "Nezla"
+msgstr "النزلة"
+
+msgid "Taibet"
+msgstr "الطيبات"
+
+msgid "Tebesbest"
+msgstr "تبسبست"
+
+msgid "Temacine"
+msgstr "تماسين"
+
+msgid "Zaouia El Abidia"
+msgstr "الزاوية العابدية"
+
+# Cities of Djanet province
+msgid "Bordj El Haoues"
+msgstr "برج الحواس"
+
+# Cities of el Meghaier province
+msgid "Djamaa"
+msgstr "جامعة"
+
+msgid "M'Rara"
+msgstr "المرارة"
+
+msgid "Oum Touyour"
+msgstr "أم الطيور"
+
+msgid "Sidi Amrane"
+msgstr "سيدي عمران"
+
+msgid "Sidi Khelil"
+msgstr "سيدي خليل"
+
+msgid "Tendla"
+msgstr "تندلة"
+
+# Cities of El Menia
+msgid "Hassi Gara"
+msgstr "حاسي القارة"
+
+msgid "Hassi Fehal"
+msgstr "حاسي الفحل"
+
+# Admin Settings
+msgid "Algeria States Settings"
+msgstr "إعدادات ولايات الجزائر"
+
+msgid "Show Postal Code"
+msgstr "إظهار الرمز البريدي"
+
+msgid "Default Language"
+msgstr "اللغة الافتراضية"
+
+msgid "Yes"
+msgstr "نعم"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Algeria States for WooCommerce requires WooCommerce to be installed and active."
+msgstr "تتطلب إضافة مدن و ولايات الجزائر أن تكون إضافة ووكومرس مثبتة ومفعلة."
+
+msgid "Algeria States"
+msgstr "ولايات الجزائر"
+
+msgid "General Settings"
+msgstr "إعدادات عامة"
+
+msgid "Support us"
+msgstr "ادعمنا"
+
+msgid "We hope you will support us by donating to us via my BaridiMob: 00799999001143517007"
+msgstr "نأمل أن تدعمونا بالتبرع لنا على بريدي موب لنستمر بتطوير الاضافات المجانية: 00799999001143517007"
+
+msgid "Select a state first"
+msgstr "اختر ولاية أولا"
+
+msgid "Loading cities..."
+msgstr "يتم تحميل البلديات..."
+
+msgid "Select a city..."
+msgstr "اختر مدينة..."
+
+msgid "Error loading cities"
+msgstr "حدث خطأ في التحميل"

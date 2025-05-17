@@ -1,0 +1,50 @@
+.woocommerce-checkout .col2-set {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -15px;
+}
+
+.woocommerce-checkout .col-1,
+.woocommerce-checkout .col-2 {
+    flex: 1;
+    padding: 0 15px;
+    min-width: 320px;
+}
+
+.woocommerce-checkout .form-row {
+    margin-bottom: 20px;
+}
+
+.woocommerce-checkout .form-row label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.woocommerce-checkout .form-row input[type="text"],
+.woocommerce-checkout .form-row input[type="tel"],
+.woocommerce-checkout .form-row select {
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.woocommerce-checkout .form-row select:disabled {
+    background-color: #f5f5f5;
+    cursor: not-allowed;
+}
+
+.woocommerce-checkout #place_order {
+    width: 100%;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.order-summary {
+    background: #f8f8f8;
+    padding: 20px;
+    border-radius: 4px;
+}
