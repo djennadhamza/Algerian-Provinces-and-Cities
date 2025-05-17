@@ -21,7 +21,7 @@ Install for devloppement with cloning the directory of the project
 ```
 Install for usage 
 
-Just download the repository and zip it and install it throw the plugin page
+Just download the repository and zip it and install it throw the wordpress plugin page
 ## Demo
 
 demo site
