@@ -13,10 +13,6 @@ Integrates Algerian provinces (wilayas) and cities with WooCommerce checkout fie
 - We keep only the needed fields (first name, last name, provinces, city, phone).
 - this plugin does not change the theme used, it change only the checkout fields.
 
-### donate for us
-We hope you will support us by donating to us via my BaridiMob: 00799999001143517007
-
-نأمل أن تدعمونا بالتبرع لنا على بريدي موب لنستمر بتطوير الاضافات المجانية: 00799999001143517007
 ## Installation
 
 Install for devloppement with cloning the directory of the project
@@ -40,10 +36,13 @@ Enter the site and add un item to your cart and go to checkout page and see by y
 ادخل للموقع واضف منتجا للسلة ثم اذهب لصفحة تأكيد الشراء (الدفع عند الاستلام)
 وشوف بنفسك 
 
-
-
 ## Authors
 
 - [@djennadhamza](https://www.github.com/djennadhamza)
 
 - The list of Wilayas and Communes is sourced from [Wilaya-Of-Algeria](https://github.com/AbderrahmeneDZ/Wilaya-Of-Algeria)
+
+### Donate for us
+We hope you will support us by donating to us via my BaridiMob: 00799999001143517007
+
+نأمل أن تدعمونا بالتبرع لنا على بريدي موب لنستمر بتطوير الاضافات المجانية: 00799999001143517007
