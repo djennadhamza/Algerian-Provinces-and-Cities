@@ -19,9 +19,11 @@ Install for devloppement with cloning the directory of the project
   git clone https://github.com/djennadhamza/Algerian-Provinces-and-Cities.git
   cd Algerian-Provinces-and-Cities
 ```
-Install for usage 
+## Donwnload or Install for usage 
 
 Just download the repository and zip it and install it throw the wordpress plugin page
+
+you can download the pluging from the [link](https://drive.google.com/file/d/13cLvyOlLyedPWlyfk4mGpZ389pvjT_yJ/view?usp=sharing)
 ## Demo
 
 demo site
