@@ -96,12 +96,12 @@ jQuery(function($) {
                 // Add initial option
                 selectField.append($('<option>', {
                     value: '',
-                    text: 'Select a state first'
+                    text: 'اختر الولاية أولا'
                 }));
 
                 selectField1.append($('<option>', {
                     value: '',
-                    text: 'Select a state first'
+                    text: 'اختر الولاية أولا'
                 }));
                 
                 //
@@ -166,7 +166,7 @@ jQuery(function($) {
                 $(citySelector).empty();
                 $(citySelector).append($('<option>', {
                     value: '',
-                    text: selectedState ? 'Loading cities...' : 'Select a state first'
+                    text: selectedState ? 'جار تحميل البلديات...' : 'اختر الولاية أولا'
                 }));
                 $(citySelector).prop('disabled', true);
                 
@@ -188,7 +188,7 @@ jQuery(function($) {
                                 $(citySelector).empty();
                                 $(citySelector).append($('<option>', {
                                     value: '',
-                                    text: 'Select a city...'
+                                    text: 'اختر بلديتك...'
                                 }));
                                 
                                 $.each(response.data, function(index, city) {
@@ -229,7 +229,7 @@ jQuery(function($) {
                 $(citySelector1).empty();
                 $(citySelector1).append($('<option>', {
                     value: '',
-                    text: selectedState1 ? 'Loading cities...' : 'Select a state first'
+                    text: selectedState1 ? 'جار تحميل البلديات...' : 'اختر الولاية أولا'
                 }));
                 $(citySelector1).prop('disabled', true);
                 
@@ -251,7 +251,7 @@ jQuery(function($) {
                                 $(citySelector1).empty();
                                 $(citySelector1).append($('<option>', {
                                     value: '',
-                                    text: 'Select a city...'
+                                    text: 'اختر بلديتك...'
                                 }));
                                 
                                 $.each(response.data, function(index, city) {
