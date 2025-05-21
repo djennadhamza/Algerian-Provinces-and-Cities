@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Algeria States for WooCommerce\n"
 "POT-Creation-Date: 2024-01-20 12:00+0100\n"
-"PO-Revision-Date: 2025-05-17 10:24+0100\n"
+"PO-Revision-Date: 2025-05-21 21:52+0100\n"
 "Last-Translator: Your Name <your@email.com>\n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -73,7 +73,13 @@ msgstr "جيجل"
 msgid "Sétif"
 msgstr "سطيف"
 
+msgid "Setif"
+msgstr "سطيف"
+
 msgid "Saïda"
+msgstr "سعيدة"
+
+msgid "Saida"
 msgstr "سعيدة"
 
 msgid "Skikda"
@@ -119,6 +125,9 @@ msgid "Bordj Bou Arréridj"
 msgstr "برج بوعريريج"
 
 msgid "Boumerdès"
+msgstr "بومرداس"
+
+msgid "Boumerdes"
 msgstr "بومرداس"
 
 msgid "El Tarf"
@@ -892,7 +901,10 @@ msgstr "زريبة الوادي"
 
 # Cities of Béchar province
 msgid "Abadla"
-msgstr "أبعدلة"
+msgstr "عبادلة"
+
+msgid "Bechar"
+msgstr "بشار"
 
 msgid "Beni-Ounif"
 msgstr "بني ونيف"
@@ -904,7 +916,7 @@ msgid "Erg-Ferradj"
 msgstr "عرق فراج"
 
 msgid "Kenadsa"
-msgstr "كنadsa"
+msgstr "قنادسة"
 
 msgid "Lahmar"
 msgstr "لحمر"
@@ -930,6 +942,9 @@ msgstr "عين الرمانة"
 
 msgid "Beni Mered"
 msgstr "بني مراد"
+
+msgid "Merad"
+msgstr "مراد"
 
 msgid "Beni-Tamou"
 msgstr "بني تامو"
@@ -1147,8 +1162,11 @@ msgstr "بير مقدام"
 msgid "Bir-El-Ater"
 msgstr "بير العاتر"
 
-msgid "Boukhdra"
+msgid "Boukhadra"
 msgstr "بوخضرة"
+
+msgid "Tebessa"
+msgstr "تبسة"
 
 msgid "Boulhaf Dyr"
 msgstr "بولحاف الدير"
@@ -2246,6 +2264,9 @@ msgstr "أولاد خالد"
 
 msgid "Sidi Ahmed"
 msgstr "سيدي أحمد"
+
+msgid "Ahmed Rachedi"
+msgstr "أحمد راشدي"
 
 msgid "Sidi Boubekeur"
 msgstr "سيدي بوبكر"
@@ -3703,7 +3724,7 @@ msgstr "سيدي العنتري"
 msgid "Sidi Slimane"
 msgstr "سيدي سليمان"
 
-msgid "Tamalaht"
+msgid "Tamellahet"
 msgstr "تملاحت"
 
 msgid "Theniet El Had"
@@ -3828,6 +3849,9 @@ msgstr "الرميلة"
 msgid "Tamza"
 msgstr "طامزة"
 
+msgid "Taouzianat"
+msgstr "تاوزيانات"
+
 msgid "Yabous"
 msgstr "يابوس"
 
@@ -3840,6 +3864,9 @@ msgstr "بئر بوحوش"
 
 msgid "Drea"
 msgstr "الدريعة"
+
+msgid "Haddada"
+msgstr "حدادة"
 
 msgid "Hanancha"
 msgstr "الحنانشة"
@@ -3870,6 +3897,9 @@ msgstr "أولاد إدريس"
 
 msgid "Ouled Moumen"
 msgstr "أولاد مومن"
+
+msgid "Oum El Adhaim"
+msgstr "أم العظايم"
 
 msgid "Ragouba"
 msgstr "الراقوبة"
@@ -4190,6 +4220,12 @@ msgstr "البيوض"
 msgid "Kasdir"
 msgstr "القصدير"
 
+msgid "Naama"
+msgstr "النعامة"
+
+msgid "Ain Temouchent"
+msgstr "عين تموشنت"
+
 msgid "Makman Ben Amer"
 msgstr "مكمن بن عمر"
 
@@ -4291,6 +4327,9 @@ msgstr "تارقة"
 msgid "Berriane"
 msgstr "بريان"
 
+msgid "Ghardaia"
+msgstr "غرداية"
+
 msgid "Bounoura"
 msgstr "بونورة"
 
@@ -4325,8 +4364,8 @@ msgstr "عين طارق"
 msgid "Ammi Moussa"
 msgstr "عمي موسى"
 
-msgid "Belacel"
-msgstr "بلعسل"
+msgid "Belassel Bouzegza"
+msgstr "بلعسل بوزغزة"
 
 msgid "Bendaoud"
 msgstr "بن داود"
@@ -4358,6 +4397,9 @@ msgstr "المطمر"
 msgid "El Ouldja"
 msgstr "الولجة"
 
+msgid "Hamri"
+msgstr "حمري"
+
 msgid "Had Echkalla"
 msgstr "حد الشكالة"
 
@@ -4387,6 +4429,12 @@ msgstr "وادي الجمعة"
 
 msgid "Oued Essalem"
 msgstr "وادي السلام"
+
+msgid "Ouled Aiche"
+msgstr "أولاد عايش"
+
+msgid "Ouled Sidi Mihoub"
+msgstr "أولاد سيدي ميهوب"
 
 msgid "Oued Rhiou"
 msgstr "وادي رهيو"
@@ -4457,9 +4505,18 @@ msgstr "الشعيبة"
 msgid "Sidi Khaled"
 msgstr "سيدي خالد"
 
+msgid "Ras El Miad"
+msgstr "راس الميعاد"
+
 # Cities of Béni Abbès
 msgid "El Ouata"
 msgstr "الواتة"
+
+msgid "Beni Abbes"
+msgstr "بني عباس"
+
+msgid "Beni Ikhlef"
+msgstr "بني إخلف"
 
 msgid "Igli"
 msgstr "إقلي"
@@ -4476,8 +4533,14 @@ msgstr "أولاد خضير"
 msgid "Tamtert"
 msgstr "تامترت"
 
+msgid "Timoudi"
+msgstr "تيمودي"
+
 # Cities of In Salah province
-msgid "Foggaret Ezzaouia"
+msgid "Ain Salah"
+msgstr "عين صالح"
+
+msgid "Foggaret Ezzoua"
 msgstr "فقارة الزوى"
 
 msgid "Inghar"
@@ -4488,6 +4551,9 @@ msgid "Tin Zaouatine"
 msgstr "تين زواتين"
 
 # Cities of Touggourt
+msgid "Benaceur"
+msgstr "بناصر"
+
 msgid "Blidet Amor"
 msgstr "بليدة عامر"
 
@@ -4526,7 +4592,7 @@ msgstr "برج الحواس"
 msgid "Djamaa"
 msgstr "جامعة"
 
-msgid "M'Rara"
+msgid "Mrara"
 msgstr "المرارة"
 
 msgid "Oum Touyour"
