@@ -96,12 +96,12 @@ jQuery(function($) {
                 // Add initial option
                 selectField.append($('<option>', {
                     value: '',
-                    text: 'اختر الولاية أولا'
+                    text: aswc_params.statesTxt
                 }));
 
                 selectField1.append($('<option>', {
                     value: '',
-                    text: 'اختر الولاية أولا'
+                    text: aswc_params.statesTxt
                 }));
                 
                 //
@@ -166,7 +166,7 @@ jQuery(function($) {
                 $(citySelector).empty();
                 $(citySelector).append($('<option>', {
                     value: '',
-                    text: selectedState ? 'جار تحميل البلديات...' : 'اختر الولاية أولا'
+                    text: selectedState ? aswc_params.citiesLoadingTxt : aswc_params.statesTxt
                 }));
                 $(citySelector).prop('disabled', true);
                 
@@ -188,7 +188,7 @@ jQuery(function($) {
                                 $(citySelector).empty();
                                 $(citySelector).append($('<option>', {
                                     value: '',
-                                    text: 'اختر بلديتك...'
+                                    text: aswc_params.citiesTxt
                                 }));
                                 
                                 $.each(response.data, function(index, city) {
@@ -203,7 +203,7 @@ jQuery(function($) {
                                // console.error('Invalid response:', response);
                                 $(citySelector).empty().append($('<option>', {
                                     value: '',
-                                    text: 'Error loading cities'
+                                    text: aswc_params.noCitiesTxt
                                 }));
                             }
                         },
@@ -212,7 +212,7 @@ jQuery(function($) {
                             //console.log('XHR:', xhr.responseText);
                             $(citySelector).empty().append($('<option>', {
                                 value: '',
-                                text: 'Error loading cities'
+                                text: aswc_params.noCitiesTxt
                             }));
                         }
                     });
@@ -229,7 +229,7 @@ jQuery(function($) {
                 $(citySelector1).empty();
                 $(citySelector1).append($('<option>', {
                     value: '',
-                    text: selectedState1 ? 'جار تحميل البلديات...' : 'اختر الولاية أولا'
+                    text: selectedState1 ? aswc_params.citiesLoadingTxt : aswc_params.statesTxt
                 }));
                 $(citySelector1).prop('disabled', true);
                 
@@ -251,7 +251,7 @@ jQuery(function($) {
                                 $(citySelector1).empty();
                                 $(citySelector1).append($('<option>', {
                                     value: '',
-                                    text: 'اختر بلديتك...'
+                                    text: aswc_params.citiesTxt
                                 }));
                                 
                                 $.each(response.data, function(index, city) {
@@ -266,7 +266,7 @@ jQuery(function($) {
                                // console.error('Invalid response:', response);
                                 $(citySelector).empty().append($('<option>', {
                                     value: '',
-                                    text: 'Error loading cities'
+                                    text: aswc_params.noCitiesTxt
                                 }));
                             }
                         },
@@ -275,7 +275,7 @@ jQuery(function($) {
                             //console.log('XHR:', xhr.responseText);
                             $(citySelector1).empty().append($('<option>', {
                                 value: '',
-                                text: 'Error loading cities'
+                                text: aswc_params.noCitiesTxt
                             }));
                         }
                     });

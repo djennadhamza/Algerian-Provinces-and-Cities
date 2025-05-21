@@ -3,7 +3,7 @@
  * Plugin Name: Algerian Provinces for WooCommerce V2
  * Plugin URI: https://devrisemedia.com
  * Description: Integrates Algerian provinces (wilayas) and cities with WooCommerce checkout fields اضافة ولايات ومدن الجزائر للدفع عند الاستلام مجانية تماما
- * Version: 2.0.0
+ * Version: 2.2.9
  * Author: Djennad Hamza
  * Author URI: https://devrisemedia.com
  * Text Domain: algeria-states-wc 2
@@ -89,7 +89,11 @@ function aswc_enqueue_scripts() {
 
         wp_localize_script('aswc-checkout', 'aswc_params', array(
             'ajax_url' => admin_url('admin-ajax.php'),
-            'nonce' => wp_create_nonce('aswc-nonce') // Ensure nonce matches AJAX handler check
+            'nonce' => wp_create_nonce('aswc-nonce'), // Ensure nonce matches AJAX handler check
+            'statesTxt' => __('Select a state first', 'algeria-states-wc'),
+            'citiesLoadingTxt' => __('Loading cities...', 'algeria-states-wc'),
+            'citiesTxt' => __('Select a city...', 'algeria-states-wc'),
+            'noCitiesTxt' => __('Error loading cities', 'algeria-states-wc'),
         ));
         
         //error_log('[Enqueue Scripts] Script enqueued.');
