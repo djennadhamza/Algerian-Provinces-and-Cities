@@ -1483,7 +1483,7 @@ class ASWC_Ajax {
             '44' => array(
                 __('Ain Benian', 'algeria-states-wc'),
                 __('Ain Bouyahia', 'algeria-states-wc'),
-                __('Ain Defla', 'algeria-states-wc'),
+                __('Aïn Defla', 'algeria-states-wc'),
                 __('Ain Lechiekh', 'algeria-states-wc'),
                 __('Ain Soltane', 'algeria-states-wc'),
                 __('Ain Torki', 'algeria-states-wc'),
