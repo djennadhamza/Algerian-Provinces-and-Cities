@@ -36,6 +36,9 @@ Enter the site and add un item to your cart and go to checkout page and see by y
 ادخل للموقع واضف منتجا للسلة ثم اذهب لصفحة تأكيد الشراء (الدفع عند الاستلام)
 وشوف بنفسك 
 
+## Screenshots
+![Alt text](https://drive.google.com/file/d/1hG8_KKVKnm5jr7mfzIeFivCNjgaOgjvy/view?usp=sharing?raw=true "aswc plugin")
+
 ## Authors
 
 - [@djennadhamza](https://www.github.com/djennadhamza)
