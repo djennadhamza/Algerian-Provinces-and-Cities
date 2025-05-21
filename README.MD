@@ -25,7 +25,7 @@ Install for devloppement with cloning the directory of the project
 
 Just download the repository and zip it and install it throw the wordpress plugin page
 
-you can download the plugin from the [link](https://drive.google.com/file/d/1_uEvquVwGCin9YTsIF_L5qlArYZMp6Ff/view?usp=sharing)
+you can download the plugin from the [link](https://drive.google.com/file/d/17D_D2Dplft9M69MD2g-DhPll4O23pRlQ/view?usp=sharing)
 ## Demo
 
 demo site
