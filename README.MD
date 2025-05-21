@@ -37,7 +37,7 @@ Enter the site and add un item to your cart and go to checkout page and see by y
 وشوف بنفسك 
 
 ## Screenshots
-![Alt text](https://drive.google.com/file/d/1hG8_KKVKnm5jr7mfzIeFivCNjgaOgjvy/view?usp=sharing?raw=true "aswc plugin")
+![Alt text](https://jmp.sh/UlGqDfLZ?raw=true "aswc plugin")
 
 ## Authors
 
