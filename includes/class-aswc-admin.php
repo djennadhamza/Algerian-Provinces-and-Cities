@@ -105,10 +105,9 @@ class ASWC_Admin {
     }
 
     public function aswc_default_fields_callback() {
-        //$billlingfields             = $this->countries->get_address_fields( $this->countries->get_base_country(),'billing_');
         ?>
         <div>
-            <?php esc_html_e('We hope you will support us by donating to us via my BaridiMob:00799999001143517007', 'algeria-states-wc'); ?>          
+            <?php echo esc_html__('We hope you will support us by donating to us via my BaridiMob: 00799999001143517007', 'algeria-states-wc'); ?>          
         </div>
         <?php
     }
