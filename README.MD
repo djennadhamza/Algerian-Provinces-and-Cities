@@ -1,7 +1,7 @@
 
 # Algerian Provinces and cities for wooCoomerce plugin
 
-Integrates Algerian provinces (wilayas) and cities with WooCommerce checkout fields
+A wordpress plugin that Integrates Algerian provinces (all 58 wilayas) and cities with WooCommerce checkout fields
 
 
 اضافة ولايات ومدن الجزائر للدفع عند الاستلام مجانية تماما لووردبرس تدعم اضافة ووكومرس
